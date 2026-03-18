@@ -72,7 +72,7 @@ function carbon_lang() {
 }
 add_filter( 'carbon_fields_map_field_api_key', 'crb_get_gmaps_api_key' );
 function crb_get_gmaps_api_key( $current_key ) {
-    return 'AIzaSyBkLMQlLFkUPYYHCc0zYz0FLq-F1kSv-tQ';
+    return '_api_';
 }
 Container::make( 'post_meta', 'Frontpage' )
 ->where( 'post_id', '=', get_option( 'page_on_front' ) )
