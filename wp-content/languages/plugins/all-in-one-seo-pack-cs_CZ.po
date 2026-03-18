@@ -1,0 +1,4024 @@
+# Translation of Plugins - All in One SEO – Powerful SEO Plugin to Boost SEO Rankings &amp; Increase Traffic - Stable (latest release) in Czech
+# This file is distributed under the same license as the Plugins - All in One SEO – Powerful SEO Plugin to Boost SEO Rankings &amp; Increase Traffic - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-11-10 08:21:11+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n >= 2 && n <= 4) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: cs_CZ\n"
+"Project-Id-Version: Plugins - All in One SEO – Powerful SEO Plugin to Boost SEO Rankings &amp; Increase Traffic - Stable (latest release)\n"
+
+#: languages/aioseo-lite.php:7006
+msgid "The API key you have entered is invalid. Please check your API key and try again."
+msgstr "Zadaný klíč API je neplatný. Zkontrolujte svůj klíč API a zkuste to znovu."
+
+#. Translators: 1 - "titles" or "meta descriptions", 2 - "title" or "meta
+#. description".
+#: languages/aioseo-lite.php:8635
+msgid "With our Pro version, you now have access to the powerful feature that generates SEO optimized %1$s with just a click of a button. Say goodbye to manual %2$s creation and hello to increased online visibility."
+msgstr "S naší verzí Pro máte nyní přístup k výkonné funkci, která generuje %1$s optimalizované pro SEO pouhým kliknutím na tlačítko. Rozlučte se s ručním vytvářením %2$s a přivítejte lepší viditelnost online."
+
+#: languages/aioseo-lite.php:8140
+msgid "Use AI Generator"
+msgstr "Použijte generátor AI"
+
+#: languages/aioseo-lite.php:7657
+msgid "Titles"
+msgstr "Nadpisy"
+
+#: languages/aioseo-lite.php:5162
+msgid "OpenAI API Key"
+msgstr "OpenAI API klíč"
+
+#: languages/aioseo-lite.php:4544
+msgid "meta descriptions"
+msgstr "meta popisy"
+
+#: languages/aioseo-lite.php:4252
+msgid "Learn more about all the features"
+msgstr "Zjistěte více o všech funkcích"
+
+#. Translators: 1 - "Learn More" link.
+#: languages/aioseo-lite.php:2648
+msgid "Enter an OpenAI API key in order to automatically generate SEO titles and meta descriptions for your pages. %1$s"
+msgstr "Zadejte klíč API OpenAI, aby se pro vaše stránky automaticky vygenerovaly názvy SEO a meta popisy. %1$s"
+
+#: languages/aioseo-lite.php:2233
+msgid "Descriptions"
+msgstr "Popisy"
+
+#. Translators: 1 - The Page Builder name, 2 - HTML code opening tag, 3 - HTML
+#. code closing tag.
+#: languages/aioseo-lite.php:8450
+msgid "We have detected that you are currently using the %1$s Page Builder. Please click %2$shere%3$s to use the %1$s editor for a most accurate result."
+msgstr "Zjistili jsme, že aktuálně používáte %1$s Tvůrce stránek. Klikněte, prosím, %2$ssem%3$s pro použití editoru %1$s pro co nejpřesnější výsledek."
+
+#: languages/aioseo-lite.php:2211
+msgid "Depending on the number of posts being scanned, this process can take some time. You can safely leave this page and check back later."
+msgstr "V závislosti na počtu kontrolovaných příspěvků může tento proces nějakou dobu trvat. Tuto stránku můžete bezpečně opustit a vrátit se sem později."
+
+#: languages/aioseo-lite.php:8972
+msgid "Your connection with Google Search Console has expired or is invalid. Please check that your site is verified in Google Search Console and try to reconnect. If the problem persists, please contact our support team."
+msgstr "Vaše spojení s Google Search Console vypršelo nebo je neplatné. Zkontrolujte, zda je váš web ověřen v Google Search Console, a zkuste se znovu připojit. Pokud problém přetrvává, kontaktujte náš tým podpory."
+
+#. Translators: 1 - Plugin Short Name ("AIOSEO").
+#: languages/aioseo-lite.php:7446
+msgid "This action will disconnect %1$s from Google Search Console. By disconnecting from Google Search Console, you will no longer receive valuable insights on how your content is being discovered."
+msgstr "Tato akce se odpojí%1$s z Google Search Console. Po odpojení od Google Search Console již nebudete dostávat cenné informace o tom, jak se váš obsah objevuje."
+
+#: languages/aioseo-lite.php:7419
+msgid "These lists can be useful for understanding the performance of specific keywords and identifying opportunities for improvement. For example, the top winning keywords may be good candidates for further optimization or promotion, while the top losing keywords may need to be reevaluated and potentially modified or replaced.<br /><br />Note: This data is capped at the top 100 keywords per day to speed up processing and to help you prioritize your SEO efforts."
+msgstr "Tyto seznamy mohou být užitečné pro pochopení výkonu konkrétních klíčových slov a identifikaci příležitostí ke zlepšení. Například nejlépe vítězná klíčová slova mohou být dobrými kandidáty pro další optimalizaci nebo propagaci, zatímco nejprohranější klíčová slova může být nutné přehodnotit a případně upravit nebo nahradit.<br /><br />Poznámka: Tato data jsou omezena na 100 nejlepších klíčových slov za den, aby se urychlilo zpracování a aby vám pomohla určit priorityvašeSEO úsilí. \t"
+
+#: languages/aioseo-lite.php:7096
+msgid "The following SEO Statistics graphs are useful metrics for understanding the visibility of your website or pages in search results and can help you identify trends or changes over time."
+msgstr "Následující grafy statistik SEO jsou užitečné metriky pro pochopení viditelnosti vašeho webu nebo webové stránky výsledcích vyhledávání a mohou vám pomoci identifikovat trendy nebo změny v průběhu času."
+
+#: app/Common/EmailReports/Summary/Content.php:651
+#: languages/aioseo-lite.php:5520
+msgid "Position"
+msgstr "Pozice"
+
+#: languages/aioseo-lite.php:6071
+msgid "Schema"
+msgstr "Schéma"
+
+#: languages/aioseo-lite.php:5818
+msgid "Reconnect"
+msgstr "Znovu připojit"
+
+#: languages/aioseo-lite.php:5195
+msgid "Optimizing individual content for SEO is a low-hanging fruit of opportunity because it can often be done quickly and easily with a relatively small time investment. By making sure that each piece of content on your website is optimized for relevant keywords and follows best practices for on-page SEO, you can improve the visibility and ranking of that content in the search results. This can drive more traffic to your website and help you achieve better overall SEO results."
+msgstr "Optimalizace individuálního obsahu pro SEO je nenáročné, protože jej lze často provést rychle a snadno s relativně malou časovou investicí. Tím, že se ujistíte, že každá část obsahu na vašem webu je optimalizován pro relevantní klíčová slova a dodržuje osvědčené postupy pro SEO, můžete zlepšit viditelnost a hodnocení tohoto obsahu ve výsledcích vyhledávání. To může přivést větší návštěvnost vaší webové stránky a pomohou vám dosáhnout lepších celkových výsledků SEO."
+
+#: languages/aioseo-lite.php:2297
+msgid "Disconnect"
+msgstr "Odpojit"
+
+#: app/Common/Views/report/summary.php:156
+#: app/Common/Views/report/summary.php:253
+#: app/Common/Views/report/summary.php:356
+#: app/Common/Views/report/summary.php:433 languages/aioseo-lite.php:1662
+msgid "Clicks"
+msgstr "Kliknutí"
+
+#: app/Common/Admin/Admin.php:566
+msgid "Inbound Links"
+msgstr "Příchozí odkazy"
+
+#: app/Common/EmailReports/Summary/Content.php:668
+#: languages/aioseo-lite.php:3785
+msgid "Impressions"
+msgstr "Dojmy"
+
+#: app/Common/Views/report/summary.php:160
+#: app/Common/Views/report/summary.php:257
+#: app/Common/Views/report/summary.php:359
+#: app/Common/Views/report/summary.php:436 languages/aioseo-lite.php:2259
+msgid "Diff"
+msgstr "Rozdíl"
+
+#: languages/aioseo-lite.php:1824
+msgid "Content Performance"
+msgstr "Výkon obsahu"
+
+#: languages/aioseo-lite.php:1194
+msgid "Avg. CTR"
+msgstr "Prům. CTR"
+
+#: languages/aioseo-lite.php:7798
+msgid "Total Keywords"
+msgstr "Celkem klíčových slov"
+
+#: languages/aioseo-lite.php:7792
+msgid "Total Clicks"
+msgstr "Celkem kliknutí"
+
+#: languages/aioseo-lite.php:7765
+msgid "Top Keywords"
+msgstr "Nejlepší klíčová slova"
+
+#: languages/aioseo-lite.php:7751
+msgid "Top 3 Position"
+msgstr "Nejlepší 3 pozice"
+
+#: languages/aioseo-lite.php:9190
+msgid "Your URL is invalid."
+msgstr "Vaše URL není platné."
+
+#: languages/aioseo-lite.php:8872
+msgid "You don't have any keywords yet."
+msgstr "Zatím nemáte žádná klíčová slova."
+
+#: languages/aioseo-lite.php:8627
+msgid "Winning / Losing"
+msgstr "Vyhrávající / Ztrácející"
+
+#: languages/aioseo-lite.php:8031
+msgid "Up"
+msgstr "Nahoru"
+
+#: languages/aioseo-lite.php:7840
+msgid "TruSEO Score"
+msgstr "TruSEO skóre"
+
+#: app/Common/Views/report/summary.php:516 languages/aioseo-lite.php:7819
+msgid "Track page rankings"
+msgstr "Sledovat výkonost stránky"
+
+#: languages/aioseo-lite.php:9167
+msgid "Your target URL is not valid."
+msgstr "Vaše cílová adresa URL není platná."
+
+#: app/Common/Views/report/summary.php:528 languages/aioseo-lite.php:7816
+msgid "Track keyword rankings"
+msgstr "Sledujte hodnocení klíčových slov"
+
+#: languages/aioseo-lite.php:7813
+msgid "Track how your site is performing in search rankings and generate reports with actionable insights."
+msgstr "Sledujte jak si váš web vede v žebříčku vyhledávání a generuje přehledy s užitečnými statistikami."
+
+#: languages/aioseo-lite.php:7810
+msgid "Track how well keywords are ranking in search results over time based on their position and average CTR. This can help you understand the performance of keywords and identify any trends or fluctuations."
+msgstr "Sledujte, jak se klíčová slova umisťují ve výsledcích vyhledávání v průběhu času na základě jejich pozice a průměrné CTR. To vám může pomoci porozumět výkonu klíčových slov a identifikovat případné trendy nebo výkyvy."
+
+#: languages/aioseo-lite.php:7770
+msgid "Top Losing"
+msgstr "Top ztrácející"
+
+#: languages/aioseo-lite.php:7774
+msgid "Top Pages"
+msgstr "Top stránky"
+
+#: languages/aioseo-lite.php:7782
+msgid "Top Winning"
+msgstr "Top nejlepší"
+
+#: languages/aioseo-lite.php:7595
+msgid "This table displays the performance of keywords that your site ranks for over time, including metrics such as impressions, click-through rate, and average position in search results. It allows for easy analysis of how keywords are performing and identification of any underperforming keywords that may need to be optimized or replaced."
+msgstr "Tato tabulka zobrazuje výkon klíčových slov, který výš web hodnocení v průběhu času, včetně metrik, jako jsou zobrazení, míra prokliku a průměrná pozice ve výsledcích vyhledávání. Umožňuje snadnou analýzu výkonu klíčových slov a identifikaci všech nedostatečně výkonných klíčových slov, která může být potřeba optimalizovat nebo nahradit."
+
+#: app/Common/Views/report/summary.php:540 languages/aioseo-lite.php:6733
+msgid "Speed tests for individual pages/posts"
+msgstr "Testy rychlosti pro jednotlivé stránky/příspěvky"
+
+#: app/Common/Admin/Admin.php:720 languages/aioseo-lite.php:6424
+msgid "SEO Statistics"
+msgstr "SEO statistiky"
+
+#: languages/aioseo-lite.php:5556
+msgid "Post Optimizations"
+msgstr "Optimalizace příspěvků"
+
+#: languages/aioseo-lite.php:5549
+msgid "Post Detail"
+msgstr "Detail příspěvku"
+
+#. Translators: 1 - Right arrow.
+#: languages/aioseo-lite.php:5128
+msgid "Open Report %1$s"
+msgstr "Otevřít report %1$s"
+
+#: languages/aioseo-lite.php:4200
+msgid "Last 7 Days"
+msgstr "Posledních 7 dní"
+
+#: languages/aioseo-lite.php:4196
+msgid "Last 6 Months"
+msgstr "Posledních 6 měsíců"
+
+#: languages/aioseo-lite.php:4193
+msgid "Last 3 Months"
+msgstr "Poslední 3 měsíce"
+
+#: languages/aioseo-lite.php:4189
+msgid "Last 28 Days"
+msgstr "Posledních 28 dní"
+
+#: languages/aioseo-lite.php:4137
+msgid "Keyword Rankings"
+msgstr "Hodnocení klíčových slov"
+
+#: languages/aioseo-lite.php:4130
+msgid "Keyword Positions"
+msgstr "Pozice klíčových slov"
+
+#: languages/aioseo-lite.php:4121
+msgid "Keyword Performance"
+msgstr "Výkon klíčových slov"
+
+#: app/Common/Views/report/summary.php:353
+#: app/Common/Views/report/summary.php:430 languages/aioseo-lite.php:4118
+msgid "Keyword"
+msgstr "Klíčové slovo"
+
+#: languages/aioseo-lite.php:2379
+msgid "Down"
+msgstr "Dolů"
+
+#: languages/aioseo-lite.php:388
+msgid "50-100 Position"
+msgstr "Pozice 50-100"
+
+#: languages/aioseo-lite.php:368
+msgid "4-10 Position"
+msgstr "Pozice 4-10"
+
+#: languages/aioseo-lite.php:358
+msgid "11-50 Position"
+msgstr "Pozice 11-50"
+
+#. Translators: 1 - The number of points.
+#: languages/aioseo-lite.php:331
+msgid "%s point"
+msgid_plural "%s points"
+msgstr[0] "%s bod"
+msgstr[1] "%s body"
+msgstr[2] "%s bodů"
+
+#. Translators: 1 - The number of keywords.
+#: languages/aioseo-lite.php:327
+msgid "%s keyword"
+msgid_plural "%s keywords"
+msgstr[0] "%s klíčové slovo"
+msgstr[1] "%s klíčová slova"
+msgstr[2] "%s klíčových slov"
+
+#. Translators: 1 - The number of clicks.
+#: languages/aioseo-lite.php:319
+msgid "%s click"
+msgid_plural "%s clicks"
+msgstr[0] "%s kliknutí"
+msgstr[1] "%s kliknutí"
+msgstr[2] "%s kliknutí"
+
+#: app/Common/Views/report/summary.php:504 languages/aioseo-lite.php:6188
+msgid "Search traffic insights"
+msgstr "Statistiky návštěvnosti vyhledávání"
+
+#: languages/aioseo-lite.php:6181
+msgid "Search statistics are being fetched."
+msgstr "Statistiky vyhledávání se načítají."
+
+#: languages/aioseo-lite.php:6158
+msgid "Search Impressions"
+msgstr "Zobrazení ve vyhledávání"
+
+#: languages/aioseo-lite.php:6135
+msgid "Search Clicks"
+msgstr "Kliknutí na vyhledávání"
+
+#: languages/aioseo-lite.php:5880
+msgid "Refreshing data"
+msgstr "Aktualizuji data"
+
+#: languages/aioseo-lite.php:4763
+msgid "News & Video Sitemap"
+msgstr "Soubor Sitemap pro zprávy a videa"
+
+#: languages/aioseo-lite.php:4350
+msgid "Loading new report data..."
+msgstr "Načítání nových dat přehledu..."
+
+#: languages/aioseo-lite.php:3869
+msgid "Included as Pro Feature"
+msgstr "Obsahuje verze Pro"
+
+#: languages/aioseo-lite.php:3813
+msgid "in search results"
+msgstr "ve výsledcích vyhledávání"
+
+#: languages/aioseo-lite.php:3335
+msgid "Google Search Console Integration"
+msgstr "Integrace Google Search Console"
+
+#: languages/aioseo-lite.php:1830
+msgid "Content Rankings"
+msgstr "Hodnocení obsahu"
+
+#: app/Common/Views/report/summary.php:491 languages/aioseo-lite.php:1787
+msgid "Connect your site to Google Search Console to receive insights on how content is being discovered. Identify areas for improvement and drive traffic to your website."
+msgstr "Připojte váš web do Google Search Console, kde získáte informace o tom, jaký obsah se objevuje. Identifikujte oblasti pro zlepšení a ke zvýšení návětěvnosti."
+
+#: languages/aioseo-lite.php:1778
+msgid "Connect with Google Search Console to track how your site is performing in search rankings and generate reports with actionable insights that help you get the most out of your content. (Elite plan only)"
+msgstr "Připojte se ke službě Google Search Console a sledujte, jak si váš web vede v žebříčcích vyhledávání a generuje přehledy s užitečnými statistikami, které vám pomohou vytěžit maximumvaše obsah. (pouze elitní plán)"
+
+#: app/Common/Admin/SiteHealth.php:189
+#: app/Common/SearchStatistics/Notices.php:75 languages/aioseo-lite.php:1760
+msgid "Connect to Google Search Console"
+msgstr "Připojit se ke službě Google Search Console"
+
+#: languages/aioseo-lite.php:1197
+msgid "Avg. Position"
+msgstr "Prům. pozice"
+
+#. Translators: 1 - The number of spots.
+#: languages/aioseo-lite.php:335
+msgid "%s spot"
+msgid_plural "%s spots"
+msgstr[0] "%s bod"
+msgstr[1] "%s body"
+msgstr[2] "%s bodů"
+
+#. Translators: 1 - The number of impressions.
+#: languages/aioseo-lite.php:323
+msgid "%s impression"
+msgid_plural "%s impressions"
+msgstr[0] "%s dojem"
+msgstr[1] "%s dojmy"
+msgstr[2] "%s dojmů"
+
+#. Translators: 1 - Opening HTML link tag, 2 - Plugin short name ("AIOSEO"), 3
+#. - "Pro", 4 - Closing HTML link tag.
+#: languages/aioseo-lite.php:311
+msgid "%1$sUpgrade your %2$s %3$s%4$s plan to see Keyword Positions"
+msgstr "%1$s Vylepete váš %2$s %3$s%4$s plán pro zobrazení pozic klíčových slov"
+
+#: app/Common/Admin/Admin.php:243 app/Common/Admin/Admin.php:244
+#: languages/aioseo-lite.php:6178
+msgid "Search Statistics"
+msgstr "Statistiky vyhledávání"
+
+#. Translators: 1 - The direction (up or down), 2 - The difference, 3 - "in
+#. search results", 4 - The first date, 5 - The second date.
+#: languages/aioseo-lite.php:45
+msgid "%1$s %2$s %3$s compared to the previous period (%4$s - %5$s)"
+msgstr "%1$s %2$s %3$s oproti předchozímu období (%4$s - %5$s)"
+
+#: languages/aioseo-lite.php:6727
+msgid "source url set once post is published"
+msgstr "zdrojová adresa URL je nastavena jakmile je příspěvek zveřejněn"
+
+#: app/Common/Admin/Admin.php:556
+msgid "Google Rich Results Test"
+msgstr "Výsledky testu Google Rich"
+
+#: languages/aioseo-lite.php:6414
+msgid "SEO Setup Wizard"
+msgstr "Průvodce nastavením SEO"
+
+#: languages/aioseo-lite.php:6386
+msgid "SEO Overview"
+msgstr "Přehled SEO"
+
+#: languages/aioseo-lite.php:6374
+msgid "SEO Inspector"
+msgstr "SEO inspektor"
+
+#. Translators: 1 - Plugin Short Name ("AIOSEO").
+#: languages/aioseo-lite.php:6294
+msgid "Select which %1$s widgets to display on the dashboard."
+msgstr "Vyberte si, který %1$s widget se má zobrazovat na ploše."
+
+#: languages/aioseo-lite.php:5590
+msgid "Post Types:"
+msgstr "Typy příspěvků:"
+
+#: app/Common/Standalone/SeoPreview.php:193
+msgid "Edit User"
+msgstr "Upravit uživatele"
+
+#: app/Common/Standalone/SeoPreview.php:282
+msgid "NEW"
+msgstr "NOVÝ"
+
+#: languages/aioseo-lite.php:4873
+msgid "No keyphrase found"
+msgstr "Nebyla nalezena žádná klíčová fráze"
+
+#: languages/aioseo-lite.php:4826
+msgid "No data yet"
+msgstr "Zatím žádná data"
+
+#: languages/aioseo-lite.php:4550
+msgid "Meta Tags"
+msgstr "MetaTagy"
+
+#: languages/aioseo-lite.php:4335
+msgid "List of custom field names to include as post content for tags and the SEO Page Analysis. Add one per line."
+msgstr "Seznam volitelných jmen polí, která mají být zahrnuta jako obsah příspěvku pro značky a SEO analýzu stránky. Přidej jeden na řádek."
+
+#: languages/aioseo-lite.php:2455
+msgid "Edit Facebook Meta Data"
+msgstr "UpravitMetadata Facebooku"
+
+#: app/Common/Standalone/SeoPreview.php:278 languages/aioseo-lite.php:6389
+msgid "SEO Preview"
+msgstr "SEO náhled"
+
+#: languages/aioseo-lite.php:4462
+msgid "Male"
+msgstr "Muž"
+
+#: languages/aioseo-lite.php:2847
+msgid "Female"
+msgstr "Žena"
+
+#: languages/aioseo-lite.php:7927
+msgid "Unisex"
+msgstr "Unisex"
+
+#: languages/aioseo-lite.php:837
+msgid "An alternate name for your site. This could be an acronym or shorter version of your website name."
+msgstr "Alternativní název pro váš web. Může to být zkratka nebo kratší verze vašeho názvu webu."
+
+#: languages/aioseo-lite.php:819
+msgid "Alternate Website Name"
+msgstr "Alternativní název webu"
+
+#: languages/aioseo-lite.php:412
+msgid "A name that Google may use for your homepage in mobile search results. This will default to the WordPress site title if left blank."
+msgstr "Název, který může Google použít pro vaši domovskou stránku ve výsledcích mobilního vyhledávání. Tohle bude výchozí pro WordPress místo titulku pokud je ponecháno prázdné."
+
+#: languages/aioseo-lite.php:4568
+msgid "Minimum size: 200px x 200px, ideal ratio 1.91:1, 8MB max. (eg: 1640px x 856px or 3280px x 1712px for Retina screens). JPG, PNG, WEBP and GIF formats only."
+msgstr "Minimální velikost: 200px x 200px, ideální poměr 1,91:1, max. 8MB. (např.: 1640px x 856px nebo 3280px x 1712px pro retina obrázky). Pouze formáty JPG, PNG, WEBP a GIF."
+
+#: languages/aioseo-lite.php:4565
+msgid "Minimum size: 200px x 200px, ideal ratio 1.91:1, 5MB max. (eg: 1640px x 856px or 3280px x 1712px for Retina screens). JPG, PNG, WEBP and GIF formats only."
+msgstr "Minimální velikost: 200px x 200px, ideální poměr 1,91:1, max. 8MB. (např.: 1640px x 856px nebo 3280px x 1712px pro retina obrázky). Pouze formáty JPG, PNG, WEBP a GIF."
+
+#: languages/aioseo-lite.php:5918
+msgid "Remove Smart Tag"
+msgstr "Odstranit chytré značky"
+
+#: languages/aioseo-lite.php:4258
+msgid "Learn more about Smart Tags"
+msgstr "Další informace o chytrých značkách"
+
+#: languages/aioseo-lite.php:4064
+msgid "It's impossible to cover every aspect of a subject on a single page, but your readers may be fascinated by some detail you barely touch on. If you link to a resource where they can learn more, they'll be grateful. What's more, you'll be rewarded with higher rankings!"
+msgstr "Je nemožné pokrýt všechny aspekty tématu na jedné stránce, ale vaše čtenáře možná zaujme nějaký detail, kterého se sotva dotknete. Pokud dáte odkaz na zdroj, kde se mohou dozvědět více, budou vděční. A co víc, budete odměněni vyššími hodnoceními!"
+
+#. Translators: 1 - Opening HTML bold tag, 2 - Closing HTML bold tag.
+#: languages/aioseo-lite.php:1440
+msgid "By default SEO Managers have access to %1$sSEO settings for General Settings, Sitemaps, Link Assistant, Redirects, Local SEO, and individual pages and posts.%2$s"
+msgstr "Ve výchozím nastavení mají správci SEO přístup k %1$sSEO nastavením pro obecná nastavení, soubory Sitemap, asistenta odkazů, přesměrování, místní SEO a jednotlivé stránky a příspěvky.%2$s"
+
+#: languages/aioseo-lite.php:578
+msgid "Add links to internal and external resources that are useful for your readers. For Internal links, make sure the links are highly relevant to the subject you're writing about. For external links, make sure you link to high-quality sites - Google penalizes pages that link to \"spammy\" sites (ones that break the Google webmaster guidelines)."
+msgstr "Přidejte odkazy na interní a externí zdroje, které jsou užitečné pro vaše čtenáře. U interních odkazů se ujistěte, že jsou odkazy vysoce relevantní k předmětu, o kterém píšete. U externích odkazů se ujistěte, že odkazujete na vysoce kvalitní stránky – Google penalizuje stránky, které odkazují na „spamové“ stránky (ty, které porušují pokyny Google pro webmastery)."
+
+#: languages/aioseo-lite.php:8519
+msgid "Week"
+msgstr "Týden"
+
+#: languages/aioseo-lite.php:8379
+msgid "Volunteer"
+msgstr "Dobrovolník"
+
+#: languages/aioseo-lite.php:8370
+msgid "Visual Arts Event"
+msgstr "Událost výtvarného umění"
+
+#: languages/aioseo-lite.php:6925
+msgid "Temporary"
+msgstr "Dočasný"
+
+#: languages/aioseo-lite.php:6756
+msgid "Start Date"
+msgstr "Počáteční datum"
+
+#: languages/aioseo-lite.php:6742
+msgid "Sports Event"
+msgstr "Sportovní událost"
+
+#: languages/aioseo-lite.php:6174
+msgid "Search Schema"
+msgstr "Hledat schéma"
+
+#: languages/aioseo-lite.php:6068
+msgid "Scheduled"
+msgstr "Naplánováno"
+
+#: languages/aioseo-lite.php:5949
+msgid "Rescheduled"
+msgstr "Přesunuto na nový termín"
+
+#: languages/aioseo-lite.php:5894
+msgid "Region"
+msgstr "Region"
+
+#: languages/aioseo-lite.php:5600
+msgid "Postponed"
+msgstr "Odloženo"
+
+#: languages/aioseo-lite.php:5597
+msgid "Postgraduate Degree"
+msgstr "Postgraduální stupeň"
+
+#: languages/aioseo-lite.php:5334
+msgid "Part Time"
+msgstr "Poloviční úvazek"
+
+#: languages/aioseo-lite.php:7382
+msgid "Theater Event"
+msgstr "Divadelní akce"
+
+#: languages/aioseo-lite.php:5716
+msgid "Publication Event"
+msgstr "Zveřejňovací akce"
+
+#: languages/aioseo-lite.php:6117
+msgid "Screening Event"
+msgstr "Promítací akce"
+
+#: languages/aioseo-lite.php:6025
+msgid "Sale Event"
+msgstr "Prodejní akce"
+
+#: languages/aioseo-lite.php:5694
+msgid "Professional Certificate"
+msgstr "Profesní certifikát"
+
+#: languages/aioseo-lite.php:6656
+msgid "Social Event"
+msgstr "Společenská událost"
+
+#: app/Common/Admin/DeactivationSurvey.php:302 languages/aioseo-lite.php:5235
+msgid "Other"
+msgstr "Ostatní"
+
+#: languages/aioseo-lite.php:5077
+msgid "Online"
+msgstr "Online"
+
+#: languages/aioseo-lite.php:3568
+msgid "Hour"
+msgstr "Hodina"
+
+#: languages/aioseo-lite.php:2245
+msgid "Details"
+msgstr "Detaily"
+
+#: languages/aioseo-lite.php:1468
+msgid "Cancelled"
+msgstr "Zrušeno"
+
+#: languages/aioseo-lite.php:8367
+msgid "Visit Site"
+msgstr "Navštívit web"
+
+#: languages/aioseo-lite.php:8308
+msgid "Video"
+msgstr "Video"
+
+#: languages/aioseo-lite.php:4664
+msgid "Music Event"
+msgstr "Hudební událost"
+
+#: languages/aioseo-lite.php:4642
+msgid "Moved Online"
+msgstr "Přesunuto online"
+
+#: languages/aioseo-lite.php:4344
+msgid "Literary Event"
+msgstr "Literární akce"
+
+#: languages/aioseo-lite.php:2850
+msgid "Festival"
+msgstr "Festival"
+
+#: languages/aioseo-lite.php:2603
+msgid "End Date"
+msgstr "Datum ukončení"
+
+#: languages/aioseo-lite.php:3991
+msgid "Intern"
+msgstr "Interní"
+
+#: languages/aioseo-lite.php:3518
+msgid "High School"
+msgstr "Vysoká škola"
+
+#: languages/aioseo-lite.php:3057
+msgid "Full Time"
+msgstr "Plný úvazek"
+
+#: languages/aioseo-lite.php:2971
+msgid "Food Event"
+msgstr "Jídelní událost"
+
+#: languages/aioseo-lite.php:2732
+msgid "Exhibition Event"
+msgstr "Výstavní akce"
+
+#: languages/aioseo-lite.php:2496
+msgid "Education Event"
+msgstr "Vzdělávací akce"
+
+#: languages/aioseo-lite.php:2438
+msgid "Easily generate unlimited schema markup for your content to help you rank higher in search results. Our schema validator ensures your schema works out of the box."
+msgstr "Snadno generujte neomezené označení schématu pro váš obsah, který vám pomůže umístit se výše ve výsledcích vyhledávání. Náš validátor schémat zajišťuje, že vaše schéma funguje hned po vybalení."
+
+#: languages/aioseo-lite.php:2202
+msgid "Delivery Event"
+msgstr "Doručovací akce"
+
+#: languages/aioseo-lite.php:2059
+msgid "Day-by-Day Basis"
+msgstr "Den za dnem"
+
+#: languages/aioseo-lite.php:2023
+msgid "Dance Event"
+msgstr "Taneční akce"
+
+#: languages/aioseo-lite.php:2000
+msgid "Custom Schema"
+msgstr "Volitelné Schéma"
+
+#: languages/aioseo-lite.php:1838
+msgid "Contractor"
+msgstr "Dodavatel"
+
+#: languages/aioseo-lite.php:1684
+msgid "Comedy Event"
+msgstr "Komedniální akce"
+
+#: languages/aioseo-lite.php:1528
+msgid "Childrens Event"
+msgstr "Dětská akce"
+
+#: languages/aioseo-lite.php:1399
+msgid "Business Event"
+msgstr "Obchodní akce"
+
+#: languages/aioseo-lite.php:1200
+msgid "Bachelor Degree"
+msgstr "Bakalářský titul"
+
+#: languages/aioseo-lite.php:1075
+msgid "Associate Degree"
+msgstr "Přidružený titul"
+
+#: languages/aioseo-lite.php:929
+msgid "Annual"
+msgstr "Roční"
+
+#: languages/aioseo-lite.php:9193
+msgid "Your URL is invalid. Please check the format and try again."
+msgstr "Vaše URL je neplatné. Zkontrolujte prosím formát a zkuste to znovu."
+
+#: languages/aioseo-lite.php:9174
+msgid "Your Templates"
+msgstr "Vaše šablony"
+
+#: languages/aioseo-lite.php:8904
+msgid "You have not added any schema yet. You can add any schema graphs you like via the Schema Generator below."
+msgstr "Ještě jste nepřidali zatím žádné schéma. Můžete přidat libovolné grafy schémat, které se vám líbí, prostřednictvím níže uvedeného generátoru schémat."
+
+#: languages/aioseo-lite.php:8791
+msgid "Yes, process this network change"
+msgstr "Ano, zpracovat tuto změnu sítě"
+
+#: languages/aioseo-lite.php:8282
+msgid "Validate with Google"
+msgstr "Ověřit pomocí Google"
+
+#: languages/aioseo-lite.php:8278
+msgid "Validate Schema"
+msgstr "Ověřit schéma"
+
+#. Translators: 1 - Learn more link.
+#: languages/aioseo-lite.php:8180
+msgid "Use our powerful Schema Generator to configure Schema Markup for your content. Search Engines use structured data to better understand what your site is about as well as to display rich snippets in search results. %1$s"
+msgstr "Použijte náš výkonný generátor schémat ke konfiguraci značek schématu pro váš obsah. Vyhledávače používají strukturovaná data k lepšímu pochopení toho, o čem váš web je zhruba stejně jako zobrazování strukturovaných úryvků ve výsledcích vyhledávání. %1$s"
+
+#: languages/aioseo-lite.php:6469
+msgid "Service"
+msgstr "Služba"
+
+#: languages/aioseo-lite.php:6281
+msgid "Select Site"
+msgstr "Vybrat web"
+
+#: languages/aioseo-lite.php:4658
+msgid "Music"
+msgstr "Hudba"
+
+#: languages/aioseo-lite.php:2693
+msgid "Event"
+msgstr "Událost"
+
+#: languages/aioseo-lite.php:2066
+msgid "Deactivate"
+msgstr "Deaktivovat"
+
+#: languages/aioseo-lite.php:2072
+msgid "Deactivate License"
+msgstr "Deaktivovat licenci"
+
+#: languages/aioseo-lite.php:731
+msgid "All"
+msgstr "Vše"
+
+#: app/Common/Main/Updates.php:1292 languages/aioseo-lite.php:6684
+msgid "Software"
+msgstr "Software"
+
+#: languages/aioseo-lite.php:4667
+msgid "Music Group"
+msgstr "Hudební skupina"
+
+#: languages/aioseo-lite.php:2218
+msgid "description"
+msgstr "popis"
+
+#: languages/aioseo-lite.php:2868
+msgid "Filename"
+msgstr "Název souboru"
+
+#: languages/aioseo-lite.php:816
+msgid "Alt Tag"
+msgstr "Všechny tagy"
+
+#: languages/aioseo-lite.php:946
+msgid "Apostrophe (')"
+msgstr "Apostrof (')"
+
+#: languages/aioseo-lite.php:834
+msgid "Ampersand (&)"
+msgstr "Ampersand (&)"
+
+#: languages/aioseo-lite.php:539
+msgid "Add a Redirect"
+msgstr "Přidat přesměrování"
+
+#: languages/aioseo-lite.php:5043
+msgid "Numbers (0-9)"
+msgstr "Čísla (0-9)"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: languages/aioseo-lite.php:5491
+msgid "Please note that if you are importing post/term meta from %1$s v3.7.1 or below, this will only be successful if the post/term IDs of this site are identical to those of the source site."
+msgstr "Vezměte prosím na vědomí, že pokud importujete meta post/termín z %1$s v3.7.1 nebo nižší, bude to úspěšné pouze v případě, že ID příspěvku/termínu tohoto webu jsou identická s těmi na zdrojovém webu."
+
+#: languages/aioseo-lite.php:4429
+msgid "Looking for meta keywords?"
+msgstr "Hledáte meta klíčová slova?"
+
+#: languages/aioseo-lite.php:4450
+msgid "Major words are capitalized and minor words remain in their original casing."
+msgstr "Velká slova jsou velká a vedlejší slova zůstávají v původním psaní."
+
+#: languages/aioseo-lite.php:1993
+msgid "Custom Role"
+msgstr "Vlastní role"
+
+#. Translators: 1 - WP Core version number, 2 - AIOSEO version number.
+#: app/Common/Admin/Admin.php:1004
+msgid "WordPress %1$s | AIOSEO %2$s"
+msgstr "WordPress %1$s | AIOSEO %2$s"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: languages/aioseo-lite.php:7129
+msgid "The HTML anchor allows %1$s to link directly to your header from this table of contents block. Feel free to edit if you want, but an anchor is required. For headings without an anchor, %1$s will automatically generate them."
+msgstr "Kotva HTML umožňuje aplikaci %1$s odkazovat přímo na vaše záhlaví z tohoto bloku obsahu. Pokud chcete, můžete je upravit, ale je vyžadována kotva. U nadpisů bez kotvy je %1$s automaticky vygeneruje."
+
+#: languages/aioseo-lite.php:8761
+msgid "Yes, count me in!"
+msgstr "Ano, počítejte se mnou!"
+
+#: languages/aioseo-lite.php:8695
+msgid "Write an answer..."
+msgstr "Napište odpověď..."
+
+#: languages/aioseo-lite.php:8692
+msgid "Write a question..."
+msgstr "Napište otázku..."
+
+#: languages/aioseo-lite.php:2376
+msgid "Done"
+msgstr "Hotovo"
+
+#: languages/aioseo-lite.php:8605
+msgid "Who should use AIOSEO?"
+msgstr "Kdo by měl používat AIOSEO?"
+
+#: languages/aioseo-lite.php:4535
+msgid "Meta Description"
+msgstr "Meta popis"
+
+#: languages/aioseo-lite.php:9223
+msgid "Zip Code"
+msgstr "PSČ"
+
+#. Translators: 1 - The singular label for the current post type.
+#: languages/aioseo-lite.php:8332
+msgid "View %1$s"
+msgstr "Zobrazit %1$s"
+
+#: languages/aioseo-lite.php:6861
+msgid "Super! 🔥🔥🔥"
+msgstr "Super! 🔥🔥🔥"
+
+#: languages/aioseo-lite.php:5655
+msgid "Previous Scores"
+msgstr "Předchozí výsledky"
+
+#: languages/aioseo-lite.php:5065
+msgid "Okay"
+msgstr "Okay"
+
+#: languages/aioseo-lite.php:4752
+msgid "New Score"
+msgstr "Nové skóre"
+
+#: languages/aioseo-lite.php:4434
+msgid "Looks Good! 👍👍"
+msgstr "Vypadá dobře! 👍👍"
+
+#: languages/aioseo-lite.php:3275
+msgid "Good 🙂"
+msgstr "Dobře 🙂"
+
+#: languages/aioseo-lite.php:2187
+msgid "Delete Page"
+msgstr "Odstranit stránku"
+
+#: languages/aioseo-lite.php:2010
+msgid "Customer Data"
+msgstr "Údaje o zákaznících"
+
+#: languages/aioseo-lite.php:1960
+msgid "Current Score"
+msgstr "Aktuální skóre"
+
+#. Translators: Separator between blog name and feed type in feed links.
+#: app/Common/Rss.php:306
+msgctxt "feed link"
+msgid "-"
+msgstr "-"
+
+#: languages/aioseo-lite.php:5109
+msgid "Open Graph"
+msgstr "Open graf"
+
+#. Translators: Minimum input length in characters to start searching posts in
+#. the "Insert/edit link" modal.
+#: app/Common/Admin/Admin.php:372
+msgctxt "minimum input length for searching post links"
+msgid "3"
+msgstr "3"
+
+#: languages/aioseo-lite.php:2184
+msgid "Delete Link"
+msgstr "Odstranit odkaz"
+
+#: languages/aioseo-lite.php:2766
+msgid "External"
+msgstr "Externí"
+
+#: languages/aioseo-lite.php:692
+msgid "Affiliate"
+msgstr "Partner"
+
+#: languages/aioseo-lite.php:4870
+msgid "No items found."
+msgstr "Nebyly nalezeny žádné položky."
+
+#: languages/aioseo-lite.php:8037
+msgid "Update Addon"
+msgstr "Aktualizovat doplněk"
+
+#: languages/aioseo-lite.php:8052
+msgid "Update to version"
+msgstr "Aktualizovat na verzi"
+
+#: languages/aioseo-lite.php:5304
+msgid "Overview"
+msgstr "Přehled"
+
+#: languages/aioseo-lite.php:8407
+msgid "We couldn't analyze your title, please try again later."
+msgstr "Nepodařilo se nám analyzovat váš název, zkuste to prosím později."
+
+#. Translators: 1 - Plugin short name ("AIOSEO"), 2 - Pro.
+#: languages/aioseo-lite.php:880
+msgid "An update is required for this addon to continue to work with %1$s %2$s."
+msgstr "Aby tento doplněk nadále fungoval s %1$s %2$s, je vyžadována aktualizace."
+
+#: languages/aioseo-lite.php:7722
+msgid "Too Long"
+msgstr "Příliš dlouhé"
+
+#: languages/aioseo-lite.php:3453
+msgid "Headlines that are about 55 characters long will display fully in search results and tend to get more clicks."
+msgstr "Nadpisy, které jsou dlouhé asi 55 znaků, se ve výsledcích vyhledávání plně zobrazí a mají tendenci získávat více kliknutí."
+
+#: languages/aioseo-lite.php:8917
+msgid "You have space to add more keywords and power words to boost your rankings and click-through rate."
+msgstr "Máte prostor pro přidání dalších klíčových slov a výkonových slov, abyste zvýšili své hodnocení a míru prokliku."
+
+#: languages/aioseo-lite.php:7734
+msgid "Too Short"
+msgstr "Příliš krátké"
+
+#: languages/aioseo-lite.php:1091
+msgid "At this length, it will get cut off in search results. Try reducing it to about 55 characters."
+msgstr "V této délce bude oříznuto ve výsledcích vyhledávání. Zkuste ho zmenšit na asi 55 znaků."
+
+#: languages/aioseo-lite.php:8868
+msgid "You currently don't have permission to update this addon. Please ask a site administrator to update."
+msgstr "Momentálně nemáte oprávnění aktualizovat tento doplněk. Požádejte správce webu o aktualizaci."
+
+#: languages/aioseo-lite.php:3446
+msgid "Headline Type"
+msgstr "Typ nadpisu"
+
+#: languages/aioseo-lite.php:8657
+msgid "Word Count"
+msgstr "Počet slov"
+
+#: languages/aioseo-lite.php:6349
+msgid "Sentiment"
+msgstr "Sentiment"
+
+#: languages/aioseo-lite.php:4698
+msgid "Needs Improvement"
+msgstr "Potřebuje zlepšení"
+
+#: languages/aioseo-lite.php:747
+msgid "All good"
+msgstr "Vše dobré"
+
+#: languages/aioseo-lite.php:1502
+msgid "Character Count"
+msgstr "Počet znaků"
+
+#: languages/aioseo-lite.php:1084
+msgid "At least one"
+msgstr "Aspoň jeden"
+
+#: languages/aioseo-lite.php:8653
+msgid "Word Balance"
+msgstr "Rovnováha slov"
+
+#: languages/aioseo-lite.php:348
+msgid "10-15%"
+msgstr "10-15%"
+
+#: languages/aioseo-lite.php:2529
+msgid "Emotionally triggered headlines are likely to drive more clicks."
+msgstr "Emocionálně spouštěné nadpisy pravděpodobně způsobí více kliknutí."
+
+#: languages/aioseo-lite.php:2525
+msgid "Emotional Words"
+msgstr "Emocionální slova"
+
+#: languages/aioseo-lite.php:352
+msgid "10-20%"
+msgstr "10-20%"
+
+#: languages/aioseo-lite.php:9020
+msgid "Your headline would be more likely to get clicks if it had more common words."
+msgstr "Na váš nadpis by s větší pravděpodobností bylo kliknuto, kdyby obsahoval běžnější slova."
+
+#: languages/aioseo-lite.php:7914
+msgid "Uncommon Words"
+msgstr "Neobvyklá slova"
+
+#: languages/aioseo-lite.php:362
+msgid "20-30%"
+msgstr "20-30%"
+
+#: languages/aioseo-lite.php:3473
+msgid "Headlines with uncommon words are more likely to get clicks."
+msgstr "Nadpisy s neobvyklými slovy s větší pravděpodobností získají kliknutí."
+
+#: languages/aioseo-lite.php:1688
+msgid "Common Words"
+msgstr "Běžná slova"
+
+#: languages/aioseo-lite.php:4712
+msgid "Negative headlines are attention-grabbing and tend to perform better than neutral ones."
+msgstr "Negativní titulky upoutávají pozornost a mají tendenci dosahovat lepších výsledků než neutrální."
+
+#: languages/aioseo-lite.php:9002
+msgid "Your headline has a negative sentiment."
+msgstr "Váš nadpis má negativní sentiment."
+
+#: languages/aioseo-lite.php:4708
+msgid "Negative"
+msgstr "Negativní"
+
+#: languages/aioseo-lite.php:5532
+msgid "Positive headlines tend to get better engagement than neutral or negative ones."
+msgstr "Pozitivní titulky inklinují k lepšímu zapojení než neutrální nebo negativní."
+
+#: languages/aioseo-lite.php:9009
+msgid "Your headline has a positive sentiment."
+msgstr "Váš nadpis má pozitivní sentiment."
+
+#: languages/aioseo-lite.php:5528
+msgid "Positive"
+msgstr "Pozitivní"
+
+#: languages/aioseo-lite.php:3462
+msgid "Headlines that are strongly positive or negative tend to get more engagement than neutral ones."
+msgstr "Titulky, které jsou silně pozitivní nebo negativní, mají tendenci se více angažovat než neutrální."
+
+#: languages/aioseo-lite.php:9005
+msgid "Your headline has a neutral sentiment."
+msgstr "Váš titulek má neutrální sentiment."
+
+#: languages/aioseo-lite.php:4734
+msgid "Neutral"
+msgstr "Neutrální"
+
+#: languages/aioseo-lite.php:9017
+msgid "Your headline has too many words. Long headlines will get cut off in search results and won’t get as many clicks."
+msgstr "Váš nadpis obsahuje příliš mnoho slov. Dlouhé nadpisy se ve výsledcích vyhledávání oříznou a nezískají tolik kliknutí."
+
+#: languages/aioseo-lite.php:7731
+msgid "Too Many Words 😑"
+msgstr "Příliš mnoho slov 😑"
+
+#: languages/aioseo-lite.php:3449
+msgid "Headlines are more likely to be clicked on in search results if they have about 6 words."
+msgstr "Pravděpodobnost kliknutí na nadpisy ve výsledcích vyhledávání je vyšší, pokud mají přibližně 6 slov."
+
+#: languages/aioseo-lite.php:5867
+msgid "Reduce Word Count 🙂"
+msgstr "Snižte počet slov 🙂"
+
+#: languages/aioseo-lite.php:9013
+msgid "Your headline has the right amount of words. Headlines are more likely to be clicked on in search results if they have about 6 words."
+msgstr "Váš nadpis obsahuje správné množství slov. Na nadpisy se ve výsledcích vyhledávání klikne s větší pravděpodobností, pokud mají přibližně 6 slov."
+
+#: languages/aioseo-lite.php:3271
+msgid "Good"
+msgstr "Dobrý"
+
+#: languages/aioseo-lite.php:8998
+msgid "Your headline doesn’t use enough words. You have more space to add keywords and power words to improve your SEO and get more engagement."
+msgstr "Váš nadpis nepoužívá dostatek slov. Máte více prostoru pro přidávání klíčových slov a silných slov, abyste vylepšili své SEO a získali větší zapojení."
+
+#: languages/aioseo-lite.php:3263
+msgid "Goal: "
+msgstr "Cíl: "
+
+#: languages/aioseo-lite.php:4985
+msgid "Not Enough Words 🙃"
+msgstr "Nedostatek slov 🙃"
+
+#: languages/aioseo-lite.php:3776
+msgid "Important Issues"
+msgstr "Důležité problémy"
+
+#: languages/aioseo-lite.php:2677
+msgid "Enter Your Headline"
+msgstr "Zadejte svůj nadpis"
+
+#: languages/aioseo-lite.php:1572
+msgid "Choose whether you want to use the OG data from the Facebook tab in your individual pages/posts by default."
+msgstr "Zvolte, zda chcete ve výchozím nastavení používat data OG z karty Facebook na jednotlivých stránkách/příspěvcích."
+
+#: languages/aioseo-lite.php:5421
+msgid "Phone:"
+msgstr "Telefon:"
+
+#: languages/aioseo-lite.php:645
+msgid "Address:"
+msgstr "Adresa:"
+
+#: languages/aioseo-lite.php:2502
+msgid "Email"
+msgstr "E-mail"
+
+#: languages/aioseo-lite.php:2824
+msgid "Fax"
+msgstr "Fax"
+
+#: languages/aioseo-lite.php:5409
+msgid "Phone"
+msgstr "Telefon"
+
+#: languages/aioseo-lite.php:6885
+msgid "Tax ID"
+msgstr "DIČ"
+
+#: languages/aioseo-lite.php:8290
+msgid "Vat ID"
+msgstr "DIČ"
+
+#: languages/aioseo-lite.php:2518
+msgid "Email:"
+msgstr "E-mail:"
+
+#: languages/aioseo-lite.php:2831
+msgid "Fax:"
+msgstr "Fax:"
+
+#: app/Common/Views/sitemap/xsl/templates/format-priority.php:30
+#: languages/aioseo-lite.php:3515
+msgid "High"
+msgstr "Vysoký"
+
+#: app/Common/Views/sitemap/xsl/templates/format-priority.php:29
+msgid "Medium"
+msgstr "Střední"
+
+#: app/Common/Views/sitemap/xsl/templates/format-priority.php:28
+#: languages/aioseo-lite.php:4441
+msgid "Low"
+msgstr "Nízký"
+
+#: app/Common/Views/sitemap/xsl/templates/header.php:62
+msgid "sitemap"
+msgstr "sitemap"
+
+#. Translators: 1 - The amount of errors.
+#: languages/aioseo-lite.php:109
+msgid "%1$s Error"
+msgid_plural "%1$s Errors"
+msgstr[0] "%1$s chyba"
+msgstr[1] "%1$s chyby"
+msgstr[2] "%1$s chyb"
+
+#: app/Common/Views/sitemap/xsl/templates/empty-sitemap.php:32
+msgid "Whoops!"
+msgstr "Uppsss!"
+
+#: app/Common/Views/sitemap/xsl/templates/empty-sitemap.php:39
+msgid "Configure Sitemap"
+msgstr "Konfigurovat sitemap"
+
+#: app/Common/Views/sitemap/xsl/templates/empty-sitemap.php:37
+msgid "Back to Homepage"
+msgstr "Zpět na domovskou stránku"
+
+#: app/Common/Views/sitemap/xsl/styles.php:103
+msgid "Back"
+msgstr "Zpět"
+
+#. Translators: 1 - The "start-end" pagination results, 2 - Total items.
+#: app/Common/Views/sitemap/xsl/partials/pagination.php:42
+msgid "Showing %1$s of %2$s"
+msgstr "Zobrazuje se %1$s z %2$s"
+
+#: app/Common/Views/sitemap/xsl/default.php:282
+msgid "Images"
+msgstr "Obrázky"
+
+#: app/Common/Options/Options.php:580
+msgid "404 - Page Not Found"
+msgstr "404 - Stránka nebyla nalezena"
+
+#: languages/aioseo-lite.php:4503
+msgid "Map Preview"
+msgstr "Náhled mapy"
+
+#: languages/aioseo-lite.php:943
+msgid "API Key"
+msgstr "API klíč"
+
+#: languages/aioseo-lite.php:3315
+msgid "Google Maps API Key"
+msgstr "API klíč pro Google Mapy"
+
+#: languages/aioseo-lite.php:4497
+msgid "Map"
+msgstr "Mapa"
+
+#: languages/aioseo-lite.php:4507
+msgid "Maps"
+msgstr "Mapy"
+
+#. Translators: 1 - The title of the location.
+#: languages/aioseo-lite.php:5465
+msgid "Please configure the map for this location: %1$s"
+msgstr "Nakonfigurujte mapu pro toto místo: %1$s"
+
+#: languages/aioseo-lite.php:6504
+msgid "Share your content on your favorite social media platforms to drive engagement and increase your SEO."
+msgstr "Sdílejte svůj obsah na svých oblíbených platformách sociálních médií, abyste zvýšili zapojení a zvýšili své SEO."
+
+#: languages/aioseo-lite.php:8364
+msgid "Visibility"
+msgstr "Viditelnost"
+
+#: languages/aioseo-lite.php:9086
+msgid "Your post needs improvement!"
+msgstr "Váš příspěvek potřebuje vylepšení!"
+
+#: languages/aioseo-lite.php:4829
+msgid "No focus keyphrase!"
+msgstr "Žádná klíčová fráze pro zaměření!"
+
+#. Translators: 1 - How many errors were found.
+#: languages/aioseo-lite.php:113
+msgid "%1$s error found!"
+msgid_plural "%1$s errors found!"
+msgstr[0] "%1$s chyba nalezena!"
+msgstr[1] "%1$s chyby nalezeny!"
+msgstr[2] "%1$s chyb nalezeno!"
+
+#: languages/aioseo-lite.php:3289
+msgid "Good!"
+msgstr "Dobře!"
+
+#: languages/aioseo-lite.php:1325
+msgid "Blocked!"
+msgstr "Blokováno!"
+
+#: app/Common/Api/Tools.php:238
+msgid ".htaccess file is empty."
+msgstr ".htaccess soubor je prázdný."
+
+#: languages/aioseo-lite.php:1996
+msgid "Custom Rules"
+msgstr "Vlastní pravidla"
+
+#: languages/aioseo-lite.php:4408
+msgid "Logged Out"
+msgstr "Odhlásit"
+
+#: languages/aioseo-lite.php:4405
+msgid "Logged In"
+msgstr "Přihlášen"
+
+#: languages/aioseo-lite.php:4274
+msgid "Libraries"
+msgstr "Knihovny"
+
+#: languages/aioseo-lite.php:3602
+msgid "HTTP Header"
+msgstr "HTTP hlavička"
+
+#: languages/aioseo-lite.php:1859
+msgid "Cookie"
+msgstr "Cookie"
+
+#: languages/aioseo-lite.php:1811
+msgid "Content"
+msgstr "Obsah"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:197
+msgid "List"
+msgstr "Seznam"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:191
+msgid "How-To"
+msgstr "Jak"
+
+#: app/Common/Breadcrumbs/Tags.php:171
+msgid "The author's last name."
+msgstr "Příjmení autora."
+
+#: app/Common/Breadcrumbs/Tags.php:166
+msgid "The author's first name."
+msgstr "Křestní jméno autora."
+
+#: app/Common/Breadcrumbs/Tags.php:161
+msgid "The author's display name."
+msgstr "Zobrazované jméno autora."
+
+#: app/Common/Breadcrumbs/Tags.php:196
+msgid "The day."
+msgstr "Den."
+
+#: app/Common/Breadcrumbs/Tags.php:191
+msgid "The month."
+msgstr "Měsíc."
+
+#: app/Common/Breadcrumbs/Tags.php:186
+msgid "The year."
+msgstr "Rok."
+
+#: app/Common/Breadcrumbs/Tags.php:195 languages/aioseo-lite.php:2056
+msgid "Day"
+msgstr "Den"
+
+#: app/Common/Breadcrumbs/Tags.php:185
+msgid "Year"
+msgstr "Rok"
+
+#: languages/aioseo-lite.php:8137
+msgid "Use a default template"
+msgstr "Použít výchozí šablonu"
+
+#: languages/aioseo-lite.php:2148
+msgid "Default template for all pages."
+msgstr "Výchozí šablona pro všechny stránky."
+
+#: languages/aioseo-lite.php:6545
+msgid "Show Icons"
+msgstr "Zobrazit ikony"
+
+#: languages/aioseo-lite.php:6583
+msgid "Show Title"
+msgstr "Zobrazit název"
+
+#: languages/aioseo-lite.php:5388
+msgid "Permalinks are not currently supported."
+msgstr "Permalinks nejsou v současné době podporovány."
+
+#: languages/aioseo-lite.php:5478
+msgid "Please enter a valid relative source URL."
+msgstr "Zadejte prosím platnou relativní URL adresu zdroje."
+
+#: languages/aioseo-lite.php:590
+msgid "Add Redirects"
+msgstr "Přidat přesměrování"
+
+#: languages/aioseo-lite.php:8550
+msgid "what's this?"
+msgstr "co je tohle?"
+
+#: languages/aioseo-lite.php:4646
+msgid "Moved Permanently"
+msgstr "Trvale přesunuto"
+
+#: languages/aioseo-lite.php:8608
+msgid "Widget"
+msgstr "Widget"
+
+#: languages/aioseo-lite.php:382
+msgid "404 Redirects"
+msgstr "404 přesměrování"
+
+#: languages/aioseo-lite.php:3654
+msgid "Ignore all parameters"
+msgstr "Ignorovat všechny parametry"
+
+#: languages/aioseo-lite.php:2994
+msgid "Forever"
+msgstr "Navždy"
+
+#: languages/aioseo-lite.php:344
+msgid "1 week"
+msgstr "1 týden"
+
+#: languages/aioseo-lite.php:338
+msgid "1 day"
+msgstr "1 den"
+
+#: languages/aioseo-lite.php:341
+msgid "1 hour"
+msgstr "1 hodina"
+
+#: languages/aioseo-lite.php:587
+msgid "Add Redirect"
+msgstr "Přidat přesměrování"
+
+#: languages/aioseo-lite.php:849
+msgid "An error occurred while adding your redirects. Please try again later."
+msgstr "Při přidávání přesměrování došlo k chybě. Prosím zkuste to znovu později."
+
+#: languages/aioseo-lite.php:5840
+msgid "Redirect Type:"
+msgstr "Typ přesměrování:"
+
+#: languages/aioseo-lite.php:4940
+msgid "No, I changed my mind"
+msgstr "Ne, změnil jsem názor"
+
+#: languages/aioseo-lite.php:7432
+msgid "This action cannot be undone."
+msgstr "Tuto akci nelze vrátit zpět."
+
+#: languages/aioseo-lite.php:3663
+msgid "Ignore Slash"
+msgstr "Ignorovat lomítko"
+
+#: languages/aioseo-lite.php:3741
+msgid "Import from CSV file..."
+msgstr "Importovat ze souboru JSON..."
+
+#: languages/aioseo-lite.php:8166
+msgid "Use Defaults"
+msgstr "Použít výchozí"
+
+#: languages/aioseo-lite.php:2508
+msgid "Email Address"
+msgstr "Emailová adresa"
+
+#: languages/aioseo-lite.php:2828
+msgid "Fax Number"
+msgstr "Číslo faxu"
+
+#: languages/aioseo-lite.php:636
+msgid "Address"
+msgstr "Adresa"
+
+#: languages/aioseo-lite.php:3531
+msgid "Hits"
+msgstr "Zobrazení"
+
+#: languages/aioseo-lite.php:3393
+msgid "Group"
+msgstr "Skupina"
+
+#: languages/aioseo-lite.php:754
+msgid "All Groups"
+msgstr "Všechny skupiny"
+
+#: languages/aioseo-lite.php:2875
+msgid "Filter by Group"
+msgstr "Filtrovat dle skupiny"
+
+#: languages/aioseo-lite.php:6484
+msgid "Settings"
+msgstr "Nastavení"
+
+#: languages/aioseo-lite.php:3716
+msgid "Import / Export"
+msgstr "Import / Export"
+
+#: languages/aioseo-lite.php:4357
+msgid "Loading..."
+msgstr "Načítání..."
+
+#: languages/aioseo-lite.php:569
+msgid "Add Keyphrase"
+msgstr "Přidat klíčovou frázi"
+
+#: languages/aioseo-lite.php:7833
+msgid "Trend"
+msgstr "Trend"
+
+#: languages/aioseo-lite.php:5915
+msgid "Remove Keyphrase"
+msgstr "Odebrat klíčovou frázi"
+
+#: languages/aioseo-lite.php:952
+msgid "Apply"
+msgstr "Použít"
+
+#: languages/aioseo-lite.php:1393
+msgid "Bulk Actions"
+msgstr "Hromadné akce"
+
+#: languages/aioseo-lite.php:4072
+msgid "items"
+msgstr "položky"
+
+#: languages/aioseo-lite.php:5050
+msgid "of"
+msgstr "z"
+
+#: languages/aioseo-lite.php:4898
+msgid "No results"
+msgstr "Žádné výsledky"
+
+#: app/Common/Schema/Context.php:274 languages/aioseo-lite.php:4988
+msgid "Not Found"
+msgstr "Nenalezeno"
+
+#: languages/aioseo-lite.php:5767
+msgid "Rating"
+msgstr "Hodnocení"
+
+#: languages/aioseo-lite.php:15
+msgid "(Default)"
+msgstr "(Výchozí)"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:203
+msgid "Question"
+msgstr "Otázka"
+
+#: languages/aioseo-lite.php:2812
+msgid "FAQ"
+msgstr "FAQ"
+
+#: app/Common/Main/Updates.php:1227 languages/aioseo-lite.php:5810
+msgid "Recipe"
+msgstr "Recept"
+
+#: app/Common/Utils/Tags.php:442
+msgid "Current Year"
+msgstr "Aktuální rok"
+
+#: app/Common/Utils/Tags.php:437
+msgid "Current Month"
+msgstr "Aktuální měsíc"
+
+#: app/Common/Utils/Tags.php:432
+msgid "Current Day"
+msgstr "Aktuální den"
+
+#: app/Common/Utils/Tags.php:427
+msgid "Current Date"
+msgstr "Aktuální datum"
+
+#: app/Common/Breadcrumbs/Tags.php:127 app/Common/Utils/Tags.php:473
+msgid "Permalink"
+msgstr "Permalink"
+
+#: app/Common/Breadcrumbs/Tags.php:165 app/Common/Utils/Tags.php:370
+msgid "Author First Name"
+msgstr "Autorovo křestní jméno"
+
+#: app/Common/Utils/Tags.php:365
+msgid "Author Name"
+msgstr "Jméno autora"
+
+#: app/Common/Api/Wizard.php:58 languages/aioseo-lite.php:7849
+msgid "Try Again"
+msgstr "Zkusit znovu"
+
+#: app/Common/Tools/SystemStatus.php:99
+msgid "Hidden"
+msgstr "Skryté"
+
+#: app/Common/Tools/SystemStatus.php:99
+msgid "Visible"
+msgstr "Viditelné"
+
+#: app/Common/Admin/Notices/Notices.php:467
+msgid "Search Engines Blocked"
+msgstr "Vyhledávače blokované"
+
+#: app/Common/Admin/Notices/Notices.php:475
+#: app/Common/Admin/Notices/Notices.php:524
+#: app/Common/Admin/Notices/Notices.php:600
+#: app/Common/ImportExport/RankMath/TitleMeta.php:434
+#: app/Common/Main/Updates.php:1570
+#: app/Common/Migration/GeneralSettings.php:730
+msgid "Fix Now"
+msgstr "Opravit nyní"
+
+#: languages/aioseo-lite.php:7038
+msgid "The content length is ok. Good job!"
+msgstr "Délka obsahu je v pořádku. Dobrá práce!"
+
+#: languages/aioseo-lite.php:1820
+msgid "Content length"
+msgstr "Délka obsahu"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:209
+#: languages/aioseo-lite.php:3075
+msgid "General"
+msgstr "Obecné"
+
+#: app/Lite/Admin/Connect.php:320
+msgid "You are not licensed."
+msgstr "Nemáte licenci."
+
+#: languages/aioseo-lite.php:2770
+msgid "External links"
+msgstr "Externí odkazy"
+
+#: languages/aioseo-lite.php:8547
+msgid "Well done!"
+msgstr "Výborně!"
+
+#: languages/aioseo-lite.php:3279
+msgid "Good job!"
+msgstr "Skvělá práce!"
+
+#: languages/aioseo-lite.php:8300
+msgid "very easy"
+msgstr "velmi snadné"
+
+#: languages/aioseo-lite.php:3381
+msgid "Great job!"
+msgstr "Skvělá práce!"
+
+#: languages/aioseo-lite.php:4001
+msgid "Internal links"
+msgstr "Interní odkazy"
+
+#: languages/aioseo-lite.php:6825
+msgid "Success!"
+msgstr "Úspěch!"
+
+#: languages/aioseo-lite.php:4238
+msgid "Learn more"
+msgstr "Zjistit více"
+
+#: languages/aioseo-lite.php:734
+msgid "All (recommended)"
+msgstr "Vše (doporučeno)"
+
+#: languages/aioseo-lite.php:1166
+msgid "Automatic Updates"
+msgstr "Automatické aktualizace"
+
+#. Translators: 1 - Plugin Short Name ("AIOSEO").
+#: languages/aioseo-lite.php:7924
+msgid "Uninstall %1$s"
+msgstr "Odinstalovat %1$s"
+
+#. Translators: 1 - Plugin Short Name ("AIOSEO").
+#: languages/aioseo-lite.php:6319
+msgid "Select which Taxonomies you want to use the %1$s columns with."
+msgstr "Vyberte, se kterými taxonomiemi chcete sloupce %1$s použít."
+
+#: languages/aioseo-lite.php:955
+msgid "archive"
+msgstr "archiv"
+
+#. Translators: This refers to the homepage of the site.
+#: app/Common/Breadcrumbs/Breadcrumbs.php:521
+#: app/Common/Options/Options.php:577 app/Common/Schema/Breadcrumb.php:318
+#: app/Common/Views/sitemap/xsl/partials/breadcrumb.php:24
+#: languages/aioseo-lite.php:3534
+msgid "Home"
+msgstr "Domů"
+
+#: languages/aioseo-lite.php:6516
+msgid "Show"
+msgstr "Zobrazit"
+
+#: languages/aioseo-lite.php:5643
+msgid "Preview"
+msgstr "Náhled"
+
+#: languages/aioseo-lite.php:4280
+msgid "License"
+msgstr "Licence"
+
+#: languages/aioseo-lite.php:6501
+msgid "Setup Wizard"
+msgstr "Průvodce nastavením"
+
+#: languages/aioseo-lite.php:3511
+msgid "Hide"
+msgstr "Skrýt"
+
+#: languages/aioseo-lite.php:8410
+msgid "We couldn't connect to the site, please try again later."
+msgstr "K webu se nepodařilo připojit, zkuste to prosím znovu později."
+
+#: languages/aioseo-lite.php:8511
+msgid "Websites"
+msgstr "Webové stránky"
+
+#: languages/aioseo-lite.php:5451
+msgid "Places"
+msgstr "Místa"
+
+#: languages/aioseo-lite.php:5376
+msgid "People"
+msgstr "Lidé"
+
+#: languages/aioseo-lite.php:5222
+msgid "Organizations"
+msgstr "Organizace"
+
+#: languages/aioseo-lite.php:3400
+msgid "Groups"
+msgstr "Skupiny"
+
+#: languages/aioseo-lite.php:524
+msgid "Activities"
+msgstr "Aktivity"
+
+#: languages/aioseo-lite.php:7875
+msgid "Type"
+msgstr "Typ"
+
+#: app/Common/Views/sitemap/html/widget-options.php:133
+#: languages/aioseo-lite.php:3621
+msgid "ID"
+msgstr "ID"
+
+#: languages/aioseo-lite.php:1652
+msgid "Click to Copy"
+msgstr "Kopírovat kliknutím"
+
+#: languages/aioseo-lite.php:8101
+msgid "Upgrade Your Plan"
+msgstr "Upgradujte svůj plán"
+
+#: languages/aioseo-lite.php:3640
+msgid "If you want to continue to improve your response time, the simplest and fastest fix is to use a caching plugin. Caching plugins keep a cached version of each page on your site. Instead of building the page from scratch, the server will send the cached copy."
+msgstr "Chcete-li i nadále zlepšovat dobu odezvy, nejjednodušší a nejrychlejší opravou je použití modulu pro ukládání do mezipaměti. Zásuvné moduly pro ukládání do mezipaměti uchovávají v mezipaměti verzi každé stránky na vašem webu. Místo vytváření stránky od začátku server odešle kopii uloženou v mezipaměti."
+
+#: languages/aioseo-lite.php:7257
+msgid "The response time is under 0.2 seconds."
+msgstr "Doba odezvy je pod 0,2 sekundy."
+
+#: languages/aioseo-lite.php:9089
+msgid "Your response time is under 0.2 seconds."
+msgstr "Vaše doba odezvy je pod 0,2 sekundy."
+
+#. Translators: 1 - The total number of page requests.
+#: languages/aioseo-lite.php:7261
+msgid "The response time of the page is %1$f seconds. It is recommended to keep it equal to or below 0.2 seconds."
+msgstr "Doba odezvy stránky je %1$f sekund. Doporučuje se ponechat ji na 0,2 sekundy nebo nižší."
+
+#. Translators: 1 - The total number of page requests.
+#: languages/aioseo-lite.php:7265
+msgid "The response time of your page is %1$f seconds. It is recommended to keep it equal to or below 0.2 seconds."
+msgstr "Doba odezvy vaší stránky je %1$f sekund. Doporučuje se ponechat ji na 0,2 sekundy nebo nižší."
+
+#. Translators: 1 - The length of the SEO title as a number.
+#: languages/aioseo-lite.php:7293
+msgid "The SEO title is set and is %1$d characters long."
+msgstr "Název SEO je nastaven a má %1$d znaků."
+
+#: languages/aioseo-lite.php:5921
+msgid "Removing white space can also have an impact on your HTML page's size. White space characters like carriage returns and tabs are ignored by the browser, but they make the markup easier for developers to read. So you should always strip them from your templates or themes before you use them in a production environment."
+msgstr "Odstranění prázdného místa může mít také dopad na velikost vaší HTML stránky. Znaky s mezerami, jako jsou návraty vozíku a tabulátory, prohlížeč ignoruje, ale vývojářům usnadňují čtení. Měli byste je tedy vždy odstranit ze svých šablon nebo motivů, než je použijete v produkčním prostředí."
+
+#: languages/aioseo-lite.php:1943
+msgid "CSS:"
+msgstr "CSS:"
+
+#: languages/aioseo-lite.php:4081
+msgid "JavaScript:"
+msgstr "JavaScript:"
+
+#: languages/aioseo-lite.php:3700
+msgid "Images:"
+msgstr "Obrázky:"
+
+#: languages/aioseo-lite.php:7533
+msgid "This is under the average of 33 KB."
+msgstr "To je pod průměrem 33 Kb."
+
+#: languages/aioseo-lite.php:7527
+msgid "This is over our recommendation of 50 KB."
+msgstr "To je více než naše doporučení 50 Kb."
+
+#. Translators: 1 - The total number of page requests.
+#: languages/aioseo-lite.php:7315
+msgid "The size of the HTML document is %1$d KB."
+msgstr "Velikost HTML dokumentu je %1$d kB."
+
+#: languages/aioseo-lite.php:3807
+msgid "In order to reduce page size, remove any unnecessary tags from your markup. This includes developer comments, which are invisible to your users - search engines ignore the text in comments, too."
+msgstr "Chcete-li zmenšit velikost stránky, odstraňte z označení všechny nepotřebné značky. To zahrnuje komentáře vývojářů, které jsou pro vaše uživatele neviditelné – vyhledávače také ignorují text v komentářích."
+
+#: languages/aioseo-lite.php:2777
+msgid "External:"
+msgstr "Externí:"
+
+#: languages/aioseo-lite.php:4014
+msgid "Internal:"
+msgstr "Interní:"
+
+#: languages/aioseo-lite.php:3409
+msgid "H2 tags were found on the page."
+msgstr "Na stránce byly nalezeny značky H2."
+
+#: languages/aioseo-lite.php:3412
+msgid "H2 tags were found on your page."
+msgstr "Na vaší stránce byly nalezeny značky H2."
+
+#: languages/aioseo-lite.php:4842
+msgid "No H2 tags were found on the page."
+msgstr "Na stránce nebyly nalezeny žádné značky H2."
+
+#: languages/aioseo-lite.php:4845
+msgid "No H2 tags were found on your page."
+msgstr "Na vaší stránce nebyly nalezeny žádné značky H2."
+
+#: languages/aioseo-lite.php:6062
+msgid "Save Changes"
+msgstr "Uložit změny"
+
+#: languages/aioseo-lite.php:8341
+msgid "View all tags"
+msgstr "Zobrazit všechny tagy"
+
+#: app/Common/Views/report/summary.php:133
+#: app/Common/Views/report/summary.php:230
+#: app/Common/Views/report/summary.php:341
+#: app/Common/Views/report/summary.php:418
+#: app/Common/Views/report/summary.php:601
+#: app/Common/Views/report/summary.php:742
+#: app/Common/Views/report/summary.php:867 languages/aioseo-lite.php:8335
+msgid "View All"
+msgstr "Zobrazit vše"
+
+#: languages/aioseo-lite.php:6121
+msgid "Search"
+msgstr "Vyhledávání"
+
+#: languages/aioseo-lite.php:1665
+msgid "Close"
+msgstr "Zavřít"
+
+#: languages/aioseo-lite.php:8350
+msgid "View Documentation"
+msgstr "Zobrazit dokumentaci"
+
+#: languages/aioseo-lite.php:3171
+msgid "Get Support"
+msgstr "Získat podporu"
+
+#: languages/aioseo-lite.php:6804
+msgid "Submit a Support Ticket"
+msgstr "Odeslat žádost o podporu"
+
+#: languages/aioseo-lite.php:1645
+msgid "Click on the tags below to insert variables into your template."
+msgstr "Kliknutím na níže uvedené značky vložíte proměnné do šablony."
+
+#: languages/aioseo-lite.php:8338
+msgid "View All Documentation"
+msgstr "Zobrazit celou dokumentaci"
+
+#: languages/aioseo-lite.php:6807
+msgid "Submit a ticket and our world class support team will be in touch soon."
+msgstr "Odešlete žádost a náš tým podpory světové třídy se brzy spojí."
+
+#. Translators: 1 - The plugin short name ("AIOEO").
+#: languages/aioseo-lite.php:1386
+msgid "Browse documentation, reference material, and tutorials for %1$s."
+msgstr "Procházejte dokumentaci, referenční materiály a výukové programy %1$s."
+
+#: languages/aioseo-lite.php:2352
+msgid "Docs"
+msgstr "Dokumenty"
+
+#: languages/aioseo-lite.php:6196
+msgid "Security"
+msgstr "Zabezpečení"
+
+#: languages/aioseo-lite.php:673
+msgid "Advanced SEO"
+msgstr "Pokročilé SEO"
+
+#: languages/aioseo-lite.php:1243
+msgid "Basic SEO"
+msgstr "Základní SEO"
+
+#: languages/aioseo-lite.php:397
+msgid "a few seconds ago"
+msgstr "před pár vteřinami"
+
+#. Translators: A number will be prepended to this string, e.g. "2 years ago".
+#: languages/aioseo-lite.php:8751
+msgid "years ago"
+msgstr "před lety"
+
+#: languages/aioseo-lite.php:440
+msgid "a year ago"
+msgstr "před rokem"
+
+#. Translators: A number will be prepended to this string, e.g. "2 months ago".
+#: languages/aioseo-lite.php:4626
+msgid "months ago"
+msgstr "před měsíci"
+
+#: languages/aioseo-lite.php:409
+msgid "a month ago"
+msgstr "před měsícem"
+
+#. Translators: A number will be prepended to this string, e.g. "2 days ago".
+#: languages/aioseo-lite.php:2063
+msgid "days ago"
+msgstr "před dny"
+
+#: languages/aioseo-lite.php:391
+msgid "a day ago"
+msgstr "před dnem"
+
+#. Translators: A number will be prepended to this string, e.g. "2 minutes
+#. ago".
+#: languages/aioseo-lite.php:4579
+msgid "minutes ago"
+msgstr "před minutami"
+
+#: languages/aioseo-lite.php:406
+msgid "a minute ago"
+msgstr "před minutou"
+
+#: languages/aioseo-lite.php:8892
+msgid "You have no new notifications."
+msgstr "Nemáte žádné nové oznámení."
+
+#: languages/aioseo-lite.php:6560
+msgid "Show Less"
+msgstr "Zobrazit méně"
+
+#: languages/aioseo-lite.php:6566
+msgid "Show More"
+msgstr "Zobrazit více"
+
+#: languages/aioseo-lite.php:2003
+msgid "Custom separator:"
+msgstr "Vlastní oddělovač:"
+
+#: languages/aioseo-lite.php:913
+msgid "Analyzing..."
+msgstr "Analyzování..."
+
+#. Translators: This refers to a discount (e.g. "As a valued user you receive
+#. 50%, automatically applied at checkout!").
+#: languages/aioseo-lite.php:5055
+msgid "off"
+msgstr "off"
+
+#: languages/aioseo-lite.php:9202
+msgid "Your Username:"
+msgstr "Vaše uživatelské jméno:"
+
+#: languages/aioseo-lite.php:6889
+msgid "Tax ID:"
+msgstr "DIČ:"
+
+#: languages/aioseo-lite.php:8393
+msgid "Warnings"
+msgstr "Varování"
+
+#: languages/aioseo-lite.php:852
+msgid "An error occurred while analyzing your site."
+msgstr "Při analýze vašeho webu došlo k chybě."
+
+#: languages/aioseo-lite.php:8240
+msgid "Use the same username for multiple social networks"
+msgstr "Použijte stejné uživatelské jméno pro více sociálních sítí"
+
+#: languages/aioseo-lite.php:9057
+msgid "Your MySpace URL is invalid. Please check the format and try again."
+msgstr "Vaše adresa URL na MySpace je neplatná. Zkontrolujte prosím formát a zkuste to znovu."
+
+#: languages/aioseo-lite.php:9205
+msgid "Your Wikipedia URL is invalid. Please check the format and try again."
+msgstr "Vaše adresa URL na Wikipedii je neplatná. Zkontrolujte prosím formát a zkuste to znovu."
+
+#: languages/aioseo-lite.php:9151
+msgid "Your SoundCloud URL is invalid. Please check the format and try again."
+msgstr "Vaše adresa URL na SoundCloud je neplatná. Zkontrolujte prosím formát a zkuste to znovu."
+
+#: languages/aioseo-lite.php:9214
+msgid "Your Yelp URL is invalid. Please check the format and try again."
+msgstr "Vaše adresa URL na Yelp je neplatná. Zkontrolujte prosím formát a zkuste to znovu."
+
+#: languages/aioseo-lite.php:9183
+msgid "Your Tumblr URL is invalid. Please check the format and try again."
+msgstr "Vaše adresa URL na Tumblr je neplatná. Zkontrolujte prosím formát a zkuste to znovu."
+
+#: languages/aioseo-lite.php:9042
+msgid "Your LinkedIn URL is invalid. Please check the format and try again."
+msgstr "Vaše adresa URL na LinkedIn je neplatná. Zkontrolujte prosím formát a zkuste to znovu."
+
+#: languages/aioseo-lite.php:9217
+msgid "Your YouTube URL is invalid. Please check the format and try again."
+msgstr "Vaše adresa URL na YouTube je neplatná. Zkontrolujte prosím formát a zkuste to znovu."
+
+#: languages/aioseo-lite.php:9083
+msgid "Your Pinterest URL is invalid. Please check the format and try again."
+msgstr "Vaše adresa URL na Pinterest je neplatná. Zkontrolujte prosím formát a zkuste to znovu."
+
+#: languages/aioseo-lite.php:5658
+msgid "Price Indicator"
+msgstr "Ukazatel ceny"
+
+#: languages/aioseo-lite.php:6228
+msgid "See Dismissed Notifications"
+msgstr "Zobrazit zamítnutá oznámení"
+
+#: languages/aioseo-lite.php:3384
+msgid "Great Scott! Where'd they all go?"
+msgstr "Skvěle Scotte! Kam všichni šli?"
+
+#: languages/aioseo-lite.php:3021
+msgid "Free"
+msgstr "Zdarma"
+
+#: languages/aioseo-lite.php:5040
+msgid "Number of Posts"
+msgstr "Počet příspěvků"
+
+#: languages/aioseo-lite.php:9027
+msgid "Your Instagram URL is invalid. Please check the format and try again."
+msgstr "Vaše adresa URL na Instagram je neplatná. Zkontrolujte prosím formát a zkuste to znovu."
+
+#: languages/aioseo-lite.php:8988
+msgid "Your Facebook URL is invalid. Please check the format and try again."
+msgstr "Vaše adresa URL na Facebook je neplatná. Zkontrolujte prosím formát a zkuste to znovu."
+
+#. Translators: 1 - "Pro".
+#: languages/aioseo-lite.php:8107
+msgid "upgrading to %1$s"
+msgstr "aktualizovat na %1$s"
+
+#: languages/aioseo-lite.php:3541
+msgid "Home Page"
+msgstr "Domovská stránka"
+
+#: languages/aioseo-lite.php:6449
+msgid "Separator Character"
+msgstr "Znak oddělovače"
+
+#: languages/aioseo-lite.php:2077
+msgid "Deactivated"
+msgstr "Deaktivováno"
+
+#: languages/aioseo-lite.php:6771
+msgid "Status:"
+msgstr "Stav:"
+
+#: languages/aioseo-lite.php:4467
+msgid "Manage"
+msgstr "Spravovat"
+
+#: languages/aioseo-lite.php:5732
+msgid "Purchase License"
+msgstr "Koupit licenci"
+
+#: languages/aioseo-lite.php:2654
+msgid "Enter License Key"
+msgstr "Zadejte licenční klíč"
+
+#: languages/aioseo-lite.php:2306
+msgid "Dismiss All"
+msgstr "Zamítnout vše"
+
+#: languages/aioseo-lite.php:494
+msgid "Activate All Features"
+msgstr "Aktivujte všechny funkce"
+
+#: languages/aioseo-lite.php:2196
+msgid "Delete Rule"
+msgstr "Smazat pravidlo"
+
+#: languages/aioseo-lite.php:5131
+msgid "Open Robots.txt"
+msgstr "Otevřít robots.txt"
+
+#: languages/aioseo-lite.php:1482
+msgid "Card Type"
+msgstr "Typ karty"
+
+#: languages/aioseo-lite.php:602
+msgid "Additional Data"
+msgstr "Doplňující data"
+
+#: languages/aioseo-lite.php:8660
+msgid "WordPress"
+msgstr "WordPress"
+
+#: languages/aioseo-lite.php:1866
+msgid "Copy to Clipboard"
+msgstr "Zkopírovat do schránky"
+
+#: languages/aioseo-lite.php:1863
+msgid "Copied!"
+msgstr "Zkopírováno!"
+
+#: app/Common/Tools/SystemStatus.php:234 languages/aioseo-lite.php:6466
+msgid "Server Info"
+msgstr "Informace o serveru"
+
+#: languages/aioseo-lite.php:2841
+msgid "Features:"
+msgstr "Funkce:"
+
+#. Translators: 1 - The abbreviated plugin name ("AIOSEO").
+#: languages/aioseo-lite.php:202
+msgid "%1$s Lite vs. Pro"
+msgstr "%1$s Lite vs. Pro"
+
+#: languages/aioseo-lite.php:6269
+msgid "Select Settings"
+msgstr "Vyberte nastavení"
+
+#: languages/aioseo-lite.php:5956
+msgid "Reset / Restore Settings"
+msgstr "Resetovat / Obnovit nastavení"
+
+#. Translators: 1 - Opening bold tag, 2 - Closing bold tag.
+#: languages/aioseo-lite.php:7474
+msgid "This allows you to edit the .htaccess file for your site. All WordPress sites on an Apache server have a .htaccess file and we have provided you with a convenient way of editing it. Care should always be taken when editing important files from within WordPress as an incorrect change could cause WordPress to become inaccessible. %1$sBe sure to make a backup before making changes and ensure that you have FTP access to your web server and know how to access and edit files via FTP.%2$s"
+msgstr "To vám umožní upravit soubor .htaccess pro váš web. Všechny weby WordPress na serveru Apache mají soubor .htaccess a my jsme vám poskytli pohodlný způsob jeho úpravy. Při úpravách důležitých souborů z WordPressu byste měli být vždy opatrní, protože nesprávná změna by mohla způsobit, že se WordPress stane nepřístupným. %1$sPřed prováděním změn si udělejte zálohu a ujistěte se, že máte FTP přístup ke svému webovému serveru a víte, jak přistupovat k souborům a upravovat je přes FTP.%2$s"
+
+#: languages/aioseo-lite.php:2493
+msgid "Editor"
+msgstr "Editor"
+
+#: languages/aioseo-lite.php:655
+msgid "Administrator"
+msgstr "Administrátor"
+
+#: languages/aioseo-lite.php:6322
+msgid "Select your timezone"
+msgstr "Vyberte vaše časové pásmo"
+
+#: languages/aioseo-lite.php:9033
+msgid "Your license has expired."
+msgstr "Platnost vaší licence vypršela."
+
+#: languages/aioseo-lite.php:8907
+msgid "You have not yet added a valid license key."
+msgstr "Dosud jste nepřidali licenční klíč."
+
+#: languages/aioseo-lite.php:9036
+msgid "Your license key is invalid."
+msgstr "Váš licenční klíč je neplatný."
+
+#: languages/aioseo-lite.php:9030
+msgid "Your license has been disabled."
+msgstr "Váš licenční klíč byl deaktivován."
+
+#. Translators: 1 - Opening HTML link and bold tag, 2 - Closing HTML link and
+#. bold tag.
+#: languages/aioseo-lite.php:1715
+msgid "Complete documentation on usage tracking is available %1$shere%2$s."
+msgstr "Kompletní dokumentace o sledování využití je k dispozici %1$szde%2$s."
+
+#: languages/aioseo-lite.php:5729
+msgid "Purchase and Install Now"
+msgstr "Koupit a instalovat teď"
+
+#: languages/aioseo-lite.php:3614
+msgid "I'll do it later"
+msgstr "Udělám to později"
+
+#: languages/aioseo-lite.php:8933
+msgid "You won't have access to this functionality until the extensions have been purchased and installed."
+msgstr "K této funkci nebudete mít přístup, dokud nebudou rozšíření zakoupena a nainstalována."
+
+#: languages/aioseo-lite.php:883
+msgid "An upgrade is required to unlock the following features."
+msgstr "K odemknutí následujících funkcí je vyžadován upgrade."
+
+#: languages/aioseo-lite.php:8683
+msgid "Would you like to purchase and install the following features now?"
+msgstr "Chcete nyní zakoupit a nainstalovat následující funkce?"
+
+#: languages/aioseo-lite.php:8758
+msgid "Yes, count me in"
+msgstr "Ano, počítejte se mnou"
+
+#. Translators: 1 - Plugin short name ("AIOSEO").
+#: languages/aioseo-lite.php:3486
+msgid "Help make %1$s better for everyone"
+msgstr "Pomozte vylepšit %1$s pro všechny"
+
+#: languages/aioseo-lite.php:8985
+msgid "Your email is needed so you can receive SEO recommendations. This email will also be used to connect your site with our SEO API."
+msgstr "Váš e-mail je potřeba, abyste mohli dostávat SEO doporučení. Tento e-mail bude také použit k propojení vašeho webu s naším SEO API."
+
+#: languages/aioseo-lite.php:8982
+msgid "Your Email Address"
+msgstr "Vaše e-mailová adresa"
+
+#. Translators: 1 - Plugin short name ("AIOSEO").
+#: languages/aioseo-lite.php:3144
+msgid "Get helpful suggestions from %1$s on how to optimize your website content, so you can rank higher in search results."
+msgstr "Získejte užitečné návrhy od %1$s, jak optimalizovat obsah svých webových stránek, abyste se ve výsledcích vyhledávání umístili výše."
+
+#: languages/aioseo-lite.php:515
+msgid "Active Notifications"
+msgstr "Aktivní oznámení"
+
+#: languages/aioseo-lite.php:4749
+msgid "New Notifications"
+msgstr "Nové oznámení"
+
+#: languages/aioseo-lite.php:7830
+msgid "Travel Agency"
+msgstr "Cestovní kancelář"
+
+#: languages/aioseo-lite.php:7804
+msgid "Tourist Information Center"
+msgstr "Turistické informační centrum"
+
+#: languages/aioseo-lite.php:6919
+msgid "Television Station"
+msgstr "Televizní stanice"
+
+#: languages/aioseo-lite.php:6114
+msgid "Score"
+msgstr "Hodnocení"
+
+#: languages/aioseo-lite.php:6739
+msgid "Sports Activity Location"
+msgstr "Místo sportovní aktivity"
+
+#: languages/aioseo-lite.php:6507
+msgid "Shopping Center"
+msgstr "Nákupní centrum"
+
+#: languages/aioseo-lite.php:6328
+msgid "Self Storage"
+msgstr "Vlastní úložiště"
+
+#: languages/aioseo-lite.php:5824
+msgid "Recycling Center"
+msgstr "Recyklační centrum"
+
+#: languages/aioseo-lite.php:5800
+msgid "Real Estate Agent"
+msgstr "Realitní agent"
+
+#: languages/aioseo-lite.php:5757
+msgid "Radio Station"
+msgstr "Rádio stanice"
+
+#: languages/aioseo-lite.php:4277
+msgid "Library"
+msgstr "Knihovna"
+
+#: languages/aioseo-lite.php:5364
+msgid "Payment Info"
+msgstr "Informace o platbě"
+
+#: languages/aioseo-lite.php:5244
+msgid "Other:"
+msgstr "Ostatní:"
+
+#: languages/aioseo-lite.php:5509
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: languages/aioseo-lite.php:1879
+msgid "Corporation"
+msgstr "Korporace"
+
+#: languages/aioseo-lite.php:6638
+msgid "Small Offline Business"
+msgstr "Malé offline podnikání"
+
+#: languages/aioseo-lite.php:5080
+msgid "Online Store"
+msgstr "Internetový obchod"
+
+#: languages/aioseo-lite.php:4770
+msgid "News Channel"
+msgstr "Zpravodajský kanál"
+
+#: languages/aioseo-lite.php:6055
+msgid "Save and Continue"
+msgstr "Uložit a pokračovat"
+
+#: languages/aioseo-lite.php:750
+msgid "All Good!"
+msgstr "Vše dobré!"
+
+#: languages/aioseo-lite.php:3244
+msgid "Go Back"
+msgstr "Jít zpět"
+
+#: languages/aioseo-lite.php:6626
+msgid "Skip this Step"
+msgstr "Přeskočit tento krok"
+
+#: languages/aioseo-lite.php:1100
+msgid "Attached Image"
+msgstr "Připojený obrázek"
+
+#: languages/aioseo-lite.php:1557
+msgid "Choose Image"
+msgstr "Vybrat obrázek"
+
+#: languages/aioseo-lite.php:2707
+msgid "Excellent!"
+msgstr "Vynikající!"
+
+#: languages/aioseo-lite.php:8305
+msgid "Very Good!"
+msgstr "Velmi dobré!"
+
+#: languages/aioseo-lite.php:424
+msgid "A valid license key is required"
+msgstr "Je vyžadován platný licenční klíč"
+
+#: app/Common/Utils/Tags.php:340
+msgid "Media Description"
+msgstr "Popis média"
+
+#: languages/aioseo-lite.php:3556
+msgid "Home Page Title"
+msgstr "Titulek domovské stránky"
+
+#: languages/aioseo-lite.php:2671
+msgid "Enter your answer"
+msgstr "Zadejte svou odpověď"
+
+#: languages/aioseo-lite.php:4686
+msgid "name"
+msgstr "jméno"
+
+#. Translators: 1 - "Pro".
+#: languages/aioseo-lite.php:8066
+msgid "upgrade to %1$s"
+msgstr "upgradovat na %1$s"
+
+#: app/Common/Admin/Admin.php:218 languages/aioseo-lite.php:6673
+msgid "Social Networks"
+msgstr "Sociální sítě"
+
+#: languages/aioseo-lite.php:782
+msgid "All Settings"
+msgstr "Všechna nastavení"
+
+#: app/Common/Admin/Admin.php:222 languages/aioseo-lite.php:6620
+msgid "Sitemaps"
+msgstr "Sitemapy"
+
+#: languages/aioseo-lite.php:2741
+msgid "Export All Post Types"
+msgstr "Exportovat všechny typy příspěvku"
+
+#: languages/aioseo-lite.php:2744
+msgid "Export All Settings"
+msgstr "Exportovat všechna nastavení"
+
+#: languages/aioseo-lite.php:4998
+msgid "not installed"
+msgstr "není instalován"
+
+#: languages/aioseo-lite.php:6256
+msgid "Select a plugin..."
+msgstr "Vyberte plugin..."
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: languages/aioseo-lite.php:1544
+msgid "Choose a plugin to import SEO data directly into %1$s."
+msgstr "Vyberte plugin pro import dat SEO přímo do %1$s."
+
+#: languages/aioseo-lite.php:3754
+msgid "Import Settings From Other Plugins"
+msgstr "Import nastavení z jiných pluginů"
+
+#: app/Common/Admin/Notices/Notices.php:521 languages/aioseo-lite.php:394
+msgid "A Description tag is required in order to properly display your meta descriptions on your site."
+msgstr "Značka popisu je vyžadována, aby se vaše meta popisy na vašem webu správně zobrazovaly."
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: languages/aioseo-lite.php:1565
+msgid "Choose whether %1$s should output the required schema markup that Google needs to generate a sitelinks search box."
+msgstr "Zvolte, zda má %1$s vydávat požadované označení schématu, které Google potřebuje k vygenerování vyhledávacího pole odkazů na podstránky."
+
+#: app/Common/Tools/RobotsTxt.php:389 languages/aioseo-lite.php:2177
+msgid "Delete"
+msgstr "Odstranit"
+
+#: languages/aioseo-lite.php:1673
+msgid "Closed"
+msgstr "Uzavřeno"
+
+#: languages/aioseo-lite.php:5103
+msgid "Open 24h"
+msgstr "Otevřeno 24h"
+
+#: languages/aioseo-lite.php:6853
+msgid "Sunday"
+msgstr "Neděle"
+
+#: languages/aioseo-lite.php:6042
+msgid "Saturday"
+msgstr "Sobota"
+
+#: languages/aioseo-lite.php:3036
+msgid "Friday"
+msgstr "Pátek"
+
+#: languages/aioseo-lite.php:7609
+msgid "Thursday"
+msgstr "Čtvrtek"
+
+#: languages/aioseo-lite.php:8516
+msgid "Wednesday"
+msgstr "Středa"
+
+#: languages/aioseo-lite.php:7861
+msgid "Tuesday"
+msgstr "Úterý"
+
+#: languages/aioseo-lite.php:4609
+msgid "Monday"
+msgstr "Pondělí"
+
+#: languages/aioseo-lite.php:6325
+msgid "Select your timezone:"
+msgstr "Vyberte vaše časové pásmo:"
+
+#: app/Common/Tools/SystemStatus.php:66 languages/aioseo-lite.php:7613
+msgid "Timezone"
+msgstr "Časové pásmo"
+
+#: languages/aioseo-lite.php:8134
+msgid "Use 24h format"
+msgstr "Použít 24 hodinový formát"
+
+#: languages/aioseo-lite.php:5098
+msgid "Open 24/7"
+msgstr "Otevřeno 24/7"
+
+#: languages/aioseo-lite.php:766
+msgid "All Items"
+msgstr "Všechny položky"
+
+#: languages/aioseo-lite.php:1532
+msgid "Choose a File"
+msgstr "Vyberte Soubor"
+
+#: languages/aioseo-lite.php:5976
+msgid "Restore"
+msgstr "Obnovit"
+
+#: languages/aioseo-lite.php:1931
+msgid "Create Backup"
+msgstr "Vytvořit zálohu"
+
+#: languages/aioseo-lite.php:8898
+msgid "You have no saved backups."
+msgstr "Nemáte žádné uložené zálohy."
+
+#: languages/aioseo-lite.php:1203
+msgid "Backup Settings"
+msgstr "Nastavení zálohování"
+
+#. Translators: 1 - Date, 2 - Timestamp.
+#: languages/aioseo-lite.php:70
+msgid "%1$s at %2$s"
+msgstr "%1$s na %2$s"
+
+#: languages/aioseo-lite.php:6831
+msgid "Success! The backup was restored."
+msgstr "Úspěch! Záloha byla obnovena."
+
+#: languages/aioseo-lite.php:6828
+msgid "Success! The backup was deleted."
+msgstr "Úspěch! Záloha byla smazána."
+
+#: languages/aioseo-lite.php:8474
+msgid "We were unable to parse the content for this site."
+msgstr "Nebyli jsme schopni analyzovat obsah tohoto webu."
+
+#: languages/aioseo-lite.php:5483
+msgid "Please enter a valid URL."
+msgstr "Zadejte, prosím platnou URL adresu."
+
+#: languages/aioseo-lite.php:3284
+msgid "Good Results"
+msgstr "Dobré výsledky"
+
+#: languages/aioseo-lite.php:5815
+msgid "Recommended Improvements"
+msgstr "Doporučená vylepšení"
+
+#. Translators: 1 - The plugin short name ('AIOSEO').
+#: languages/aioseo-lite.php:9136
+msgid "Your site is not connected. Please connect to %1$s, then try again."
+msgstr "Váš web není připojen. Připojte se k %1$s a zkuste to znovu."
+
+#: languages/aioseo-lite.php:7363
+msgid "The URL provided is invalid."
+msgstr "Zadaná adresa URL je neplatná."
+
+#: languages/aioseo-lite.php:5379
+msgid "Perform in-depth SEO Analysis of your competitor's website."
+msgstr "Proveďte hloubkovou SEO analýzu webu vaší konkurence."
+
+#: languages/aioseo-lite.php:1791
+msgid "Connecting..."
+msgstr "Připojování..."
+
+#: app/Common/Breadcrumbs/Widget.php:124
+msgid "Title:"
+msgstr "Název:"
+
+#: languages/aioseo-lite.php:970
+msgid "Archives"
+msgstr "Archivy"
+
+#: languages/aioseo-lite.php:1835
+msgid "Content Types"
+msgstr "Typy obsahu"
+
+#: languages/aioseo-lite.php:3235
+msgid "Global Settings"
+msgstr "Globální nastavení"
+
+#: languages/aioseo-lite.php:5435
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: languages/aioseo-lite.php:6222
+msgid "See all features"
+msgstr "Zobrazit všechny funkce"
+
+#: languages/aioseo-lite.php:1668
+msgid "Close and Exit Wizard Without Saving"
+msgstr "Zavřete a ukončete průvodce bez uložení"
+
+#. Translators: 1 - The current step count. 2 - The total step count.
+#: languages/aioseo-lite.php:6779
+msgid "Step %1$s of %2$s"
+msgstr "Krok %1$s z %2$s"
+
+#: app/Lite/Views/taxonomy-upsell.php:871 languages/aioseo-lite.php:4249
+msgid "Learn more about all features"
+msgstr "Zjistěte více o všech funkcích"
+
+#: languages/aioseo-lite.php:6678
+msgid "Social Profiles"
+msgstr "Sociální profily"
+
+#: languages/aioseo-lite.php:2043
+msgid "Database Tools"
+msgstr "Databázové nástroje"
+
+#: languages/aioseo-lite.php:3761
+msgid "Import/Export"
+msgstr "Import/Export"
+
+#: languages/aioseo-lite.php:3482
+msgid "Height"
+msgstr "Výška"
+
+#: languages/aioseo-lite.php:8617
+msgid "Width"
+msgstr "Šířka"
+
+#: languages/aioseo-lite.php:5909
+msgid "Remove"
+msgstr "Odstranit"
+
+#: languages/aioseo-lite.php:8111
+msgid "Upload or Select Image"
+msgstr "Nahrajte nebo vyberte obrázek"
+
+#: languages/aioseo-lite.php:4418
+msgid "Logo"
+msgstr "Logo"
+
+#: languages/aioseo-lite.php:4692
+msgid "Name"
+msgstr "Jméno"
+
+#: languages/aioseo-lite.php:1569
+msgid "Choose whether the site represents a person or an organization."
+msgstr "Zvolte, zda web představuje osobu nebo organizaci."
+
+#: languages/aioseo-lite.php:1536
+msgid "Choose a Person"
+msgstr "Vyberte osobu"
+
+#: languages/aioseo-lite.php:5354
+msgid "Paste your image URL or select a new image"
+msgstr "Vložte adresu URL obrázku nebo vyberte nový obrázek"
+
+#: languages/aioseo-lite.php:919
+msgid "And many more..."
+msgstr "A mnohem více..."
+
+#: languages/aioseo-lite.php:689
+msgid "Advanced WooCommerce"
+msgstr "Pokročilé WooCommerce"
+
+#: languages/aioseo-lite.php:3690
+msgid "Image SEO Optimization"
+msgstr "SEO optimalizace obrázku"
+
+#: languages/aioseo-lite.php:4087
+msgid "Join on Facebook"
+msgstr "Připojte se na Facebooku"
+
+#: languages/aioseo-lite.php:3504
+msgid "Here's what to do next:"
+msgstr "Další postup:"
+
+#: languages/aioseo-lite.php:2884
+msgid "Finish Setup and Go to the Dashboard"
+msgstr "Dokončete nastavení a přejděte na nástěnku"
+
+#: languages/aioseo-lite.php:1745
+msgid "Congratulations, your site is now SEO ready!"
+msgstr "Gratulujeme, váš web je nyní připraven na SEO!"
+
+#: languages/aioseo-lite.php:3247
+msgid "Go back to the Dashboard"
+msgstr "Vrátit se na nástěnku"
+
+#: languages/aioseo-lite.php:4271
+msgid "Let's Get Started"
+msgstr "Začněme"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: languages/aioseo-lite.php:218
+msgid "%1$s makes it easy to configure your site's SEO settings without the need to hire an expert. And it takes less than 10 minutes too!"
+msgstr "%1$s usnadňuje konfiguraci nastavení SEO vašeho webu, aniž byste museli najímat odborníka. A také to trvá méně než 10 minut!"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: languages/aioseo-lite.php:8542
+msgid "Welcome to the %1$s Setup Wizard!"
+msgstr "Vítejte v průvodci nastavením %1$s!"
+
+#. Translators: 1 - Plugin short name ("AIOSEO"), 2 - "Pro".
+#: languages/aioseo-lite.php:51
+msgid "%1$s %2$s comes with many additional features to help take your site's SEO to the next level!"
+msgstr "%1$s %2$s přichází s mnoha dalšími funkcemi, které vám pomohou posunout SEO vašeho webu na další úroveň!"
+
+#: languages/aioseo-lite.php:3697
+msgid "Image Title"
+msgstr "Název obrázku"
+
+#: languages/aioseo-lite.php:4395
+msgid "Locations"
+msgstr "Umístění"
+
+#: app/Common/Admin/Admin.php:204 languages/aioseo-lite.php:2030
+msgid "Dashboard"
+msgstr "Nástěnka"
+
+#: languages/aioseo-lite.php:6822
+msgid "Success"
+msgstr "Hotovo"
+
+#: languages/aioseo-lite.php:8530
+msgid "Welcome"
+msgstr "Vítejte"
+
+#: app/Common/Admin/Admin.php:258 languages/aioseo-lite.php:892
+msgid "Analytics"
+msgstr "Analytics"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: languages/aioseo-lite.php:1775
+msgid "Connect with %1$s"
+msgstr "Propojit s %1$s"
+
+#: languages/aioseo-lite.php:4341
+msgid "Lite vs. Pro"
+msgstr "Lite vs Pro"
+
+#: languages/aioseo-lite.php:3211
+msgid "Getting Started"
+msgstr "Začínáme"
+
+#: languages/aioseo-lite.php:461
+msgid "Access Control"
+msgstr "Kontrola přístupu"
+
+#: languages/aioseo-lite.php:6012
+msgid "RSS Content"
+msgstr "RSS obsah"
+
+#: languages/aioseo-lite.php:8493
+msgid "Webmaster Tools"
+msgstr "Nástroj pro webmastery"
+
+#: languages/aioseo-lite.php:1802
+msgid "Contact Page"
+msgstr "Kontaktní stránka"
+
+#: languages/aioseo-lite.php:7639
+msgid "Title & Description"
+msgstr "Název & popis"
+
+#: languages/aioseo-lite.php:667
+msgid "Advanced"
+msgstr "Pokročilé"
+
+#: languages/aioseo-lite.php:4068
+msgid "Item Page"
+msgstr "Stránka produktu"
+
+#: languages/aioseo-lite.php:5704
+msgid "Profile Page"
+msgstr "Profilová stránka"
+
+#: languages/aioseo-lite.php:1681
+msgid "Collection Page"
+msgstr "Stránka kolekce"
+
+#: app/Common/Main/Updates.php:1362 languages/aioseo-lite.php:8489
+msgid "Web Page"
+msgstr "Webová stránka"
+
+#: languages/aioseo-lite.php:4960
+msgid "None"
+msgstr "Žádné"
+
+#: languages/aioseo-lite.php:4767
+msgid "News Article"
+msgstr "Novinový článek"
+
+#: languages/aioseo-lite.php:1336
+msgid "Blog Post"
+msgstr "Příspěvěk blogu"
+
+#: languages/aioseo-lite.php:1063
+msgid "Article Type"
+msgstr "Typ článku"
+
+#: languages/aioseo-lite.php:6101
+msgid "Schema Type"
+msgstr "Typ schématu"
+
+#: languages/aioseo-lite.php:5804
+msgid "Real Estate Listing"
+msgstr "Výpis nemovitostí"
+
+#: app/Common/Main/Updates.php:1334
+msgid "FAQ Page"
+msgstr "Stránka FAQ"
+
+#: languages/aioseo-lite.php:1974
+msgid "Custom Fields"
+msgstr "Vlastní pole"
+
+#: app/Common/Options/Options.php:569 languages/aioseo-lite.php:2095
+msgid "default"
+msgstr "výchozí"
+
+#: app/Common/Admin/Admin.php:250 languages/aioseo-lite.php:7742
+msgid "Tools"
+msgstr "Nástroje"
+
+#: app/Common/Admin/Admin.php:239 languages/aioseo-lite.php:6355
+msgid "SEO Analysis"
+msgstr "SEO analýza"
+
+#: app/Common/Admin/Admin.php:231 languages/aioseo-lite.php:5857
+msgid "Redirects"
+msgstr "Přesměrování"
+
+#: languages/aioseo-lite.php:1749
+msgid "Connect"
+msgstr "Připojit"
+
+#: languages/aioseo-lite.php:5358
+msgid "Paste your license key here"
+msgstr "Zde vložte svůj licenční klíč"
+
+#: languages/aioseo-lite.php:9039
+msgid "Your license key provides access to updates and addons."
+msgstr "Licenční klíč poskytuje přístup k aktualizacím a doplňkům."
+
+#: languages/aioseo-lite.php:876
+msgid "An unknown error occurred, please try again later."
+msgstr "Došlo k neznámé chybě, zkuste to prosím znovu později."
+
+#: languages/aioseo-lite.php:6614
+msgid "Sitemap Settings"
+msgstr "Nastavení mapy stránek"
+
+#: languages/aioseo-lite.php:8163
+msgid "Use Default Settings"
+msgstr "Použít výchozí nastavení"
+
+#: languages/aioseo-lite.php:7404
+msgid "There was an error connecting to the licensing API. Please try again later."
+msgstr "Při připojování k licenčnímu rozhraní API došlo k chybě. Prosím zkuste to znovu později."
+
+#: languages/aioseo-lite.php:7540
+msgid "This license key has reached the maximum number of activations. Please deactivate it from another site or purchase a new license to continue receiving automatic updates."
+msgstr "Tento licenční klíč dosáhl maximálního počtu aktivací. Chcete-li nadále dostávat automatické aktualizace, deaktivujte jej z jiného webu nebo si zakupte novou licenci."
+
+#: languages/aioseo-lite.php:7152
+msgid "The license key provided is disabled. Please use a different key to continue receiving automatic updates."
+msgstr "Poskytnutý licenční klíč je zakázán. Chcete-li nadále dostávat automatické aktualizace, použijte prosím jiný klíč."
+
+#: languages/aioseo-lite.php:7155
+msgid "The license key provided is invalid. Please use a different key to continue receiving automatic updates."
+msgstr "Zadaný licenční klíč je neplatný. Chcete-li nadále dostávat automatické aktualizace, použijte prosím jiný klíč."
+
+#: languages/aioseo-lite.php:5308
+msgid "Page Analysis"
+msgstr "Analýza stránky"
+
+#: languages/aioseo-lite.php:4005
+msgid "Internal Links"
+msgstr "Interní odkazy"
+
+#: languages/aioseo-lite.php:1593
+msgid "Clear"
+msgstr "Smazat"
+
+#: languages/aioseo-lite.php:7880
+msgid "Type to search..."
+msgstr "Pište pro vyhledání..."
+
+#: app/Common/Views/sitemap/html/widget-options.php:149
+#: languages/aioseo-lite.php:2723
+msgid "Exclude Posts / Pages"
+msgstr "Vyloučit příspěvky / stránky"
+
+#: languages/aioseo-lite.php:3847
+msgid "Include All Post Types"
+msgstr "Zahrnout všechny typy příspěvku"
+
+#: languages/aioseo-lite.php:5668
+msgid "Priority Score"
+msgstr "Skóre priority"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: all_in_one_seo_pack.php
+msgid "https://aioseo.com/"
+msgstr "https://aioseo.com/"
+
+#: app/Common/Admin/SiteHealth.php:367 app/Common/Admin/SiteHealth.php:433
+msgid "Search Page"
+msgstr "Stránka vyhledávání"
+
+#: app/Common/Admin/SiteHealth.php:366 app/Common/Admin/SiteHealth.php:432
+msgid "Date Archives"
+msgstr "Archivy dle datumu"
+
+#: app/Common/Admin/SiteHealth.php:365 app/Common/Admin/SiteHealth.php:431
+msgid "Author Archives"
+msgstr "Archivy dle autora"
+
+#: app/Common/Utils/Tags.php:408
+msgid "Categories"
+msgstr "Kategorie"
+
+#: app/Common/Admin/SiteHealth.php:235
+msgid "Your Organization Name and Logo are set"
+msgstr "Bylo nastaveno Vaše logo a jméno organizace"
+
+#: app/Common/Admin/SiteHealth.php:222
+msgid "Your Organization Name and/or Logo are blank"
+msgstr "Jméno a/nebo Logo Vaší organizace je prázdné."
+
+#: app/Common/Admin/SiteHealth.php:121
+msgid "Go to Settings > Reading"
+msgstr "Jděte do Nastavení > Čtení"
+
+#: app/Common/Admin/SiteHealth.php:128
+msgid "Your site appears in search results"
+msgstr "Vaše stránka se zobrazuje ve výsledcích vyhledávání"
+
+#: app/Common/Admin/SiteHealth.php:321
+msgid "Go to Plugins"
+msgstr "Přejít k pluginům"
+
+#: app/Common/Admin/SiteHealth.php:270
+msgid "Your Person Name and Image are set"
+msgstr "Vaše jméno a obrázek osoby jsou nastaveny"
+
+#: app/Common/Admin/SiteHealth.php:120
+msgid "Your site is set to private. This means WordPress asks search engines to exclude your website from search results."
+msgstr "Váš web je nastaven jako soukromý. To znamená, že WordPress žádá vyhledávače, aby vyloučily váš web z výsledků vyhledávání."
+
+#: app/Common/Admin/SiteHealth.php:119
+msgid "Your site does not appear in search results"
+msgstr "Váš web se nezobrazuje ve výsledcích vyhledávání"
+
+#: languages/aioseo-lite.php:1612
+msgid "Click here"
+msgstr "Klikněte zde"
+
+#: app/Common/Main/Updates.php:1664
+#: app/Common/Migration/GeneralSettings.php:459
+#: app/Common/Migration/SocialMeta.php:110 languages/aioseo-lite.php:4246
+msgid "Learn More"
+msgstr "Zjistit více"
+
+#: app/Common/Utils/Tags.php:376
+msgid "The last name of the post author."
+msgstr "Příjmení autora příspěvku."
+
+#: languages/aioseo-lite.php:1416
+msgid "By allowing us to track usage data we can better help you as we will know which WordPress configurations, themes and plugins we should test."
+msgstr "Umožníte-li nám sledovat údaje o využití, můžeme Vám lépe pomoci, protože víme, s jakými konfiguracemi, šablonami a pluginy bychom měli WordPress testovat."
+
+#: languages/aioseo-lite.php:6015
+msgid "RSS Content Settings"
+msgstr "Nastavení RSS obsahu"
+
+#: app/Common/Admin/Admin.php:576
+msgid "LinkedIn Post Inspector"
+msgstr "Inspektor příspěvků na LinkedIn"
+
+#: languages/aioseo-lite.php:6762
+msgid "State"
+msgstr "Stát"
+
+#: app/Common/Admin/Admin.php:456 app/Common/Admin/Admin.php:743
+#: languages/aioseo-lite.php:5025
+msgid "Notifications"
+msgstr "Oznámení"
+
+#: app/Common/Admin/SiteHealth.php:157
+msgid "Go to Settings > General"
+msgstr "Jděte do Nastavení > Obecná nastavení"
+
+#: app/Common/Views/sitemap/xsl/default.php:101
+#: app/Common/Views/sitemap/xsl/default.php:191
+#: app/Common/Views/sitemap/xsl/default.php:271
+#: app/Common/Views/sitemap/xsl/templates/header.php:50
+#: languages/aioseo-lite.php:8116
+msgid "URL"
+msgstr "URL"
+
+#: app/Common/Views/sitemap/html/widget-options.php:124
+#: languages/aioseo-lite.php:5723
+msgid "Publish Date"
+msgstr "Datum zveřejnění"
+
+#: languages/aioseo-lite.php:471
+msgid "Access our Premium Support"
+msgstr "Přístup k naší Prémiové podpoře"
+
+#: languages/aioseo-lite.php:4777
+msgid "News Sitemap"
+msgstr "Nová sitemap"
+
+#: app/Common/Admin/Notices/Review.php:95
+msgid "Yes I love it"
+msgstr "Ano, líbí se mi"
+
+#: languages/aioseo-lite.php:4149
+msgid "Keywords"
+msgstr "Klíčová slova"
+
+#: languages/aioseo-lite.php:5002
+msgid "Not Installed"
+msgstr "Nenainstalováno"
+
+#: languages/aioseo-lite.php:6141
+msgid "Search Engine Optimization (SEO)"
+msgstr "Optimalizace pro vyhledávače (SEO)"
+
+#: languages/aioseo-lite.php:4293
+msgid "Limited Support"
+msgstr "Omezená podpora"
+
+#: languages/aioseo-lite.php:1730
+msgid "Complete Support"
+msgstr "Kompletní podpora"
+
+#: languages/aioseo-lite.php:5675
+msgid "Priority Support"
+msgstr "Přednostní podpora"
+
+#: languages/aioseo-lite.php:5610
+msgid "Posts, Pages, Categories and Tags only"
+msgstr "Pouze Příspěvky, Stránky, Kategorie a Tagy"
+
+#: languages/aioseo-lite.php:4979
+msgid "Not Available"
+msgstr "Nedostupné"
+
+#: languages/aioseo-lite.php:8644
+msgid "WooCommerce Products only"
+msgstr "Pouze produkty WooCommerce"
+
+#: languages/aioseo-lite.php:8641
+msgid "WooCommerce Integration"
+msgstr "Integrace WooCommerce"
+
+#: app/Common/Admin/Admin.php:586
+msgid "CSS Validator"
+msgstr "CSS Validator"
+
+#: app/Common/Admin/Admin.php:581
+msgid "HTML Validator"
+msgstr "HTML Validator"
+
+#: languages/aioseo-lite.php:484
+msgid "Activate"
+msgstr "Aktivovat"
+
+#: languages/aioseo-lite.php:512
+msgid "Activated"
+msgstr "Aktivováno"
+
+#: app/Common/Admin/Admin.php:359
+msgid "Add Link"
+msgstr "Přidat odkaz"
+
+#: app/Common/Admin/Admin.php:358
+msgid "Update"
+msgstr "Aktualizovat"
+
+#: languages/aioseo-lite.php:4090
+msgid "Join our Community"
+msgstr "Připojte se k naší komunitě"
+
+#: app/Lite/Admin/Connect.php:292
+msgid "Plugin installed & activated."
+msgstr "Plugin nainstalován & aktivován."
+
+#: languages/aioseo-lite.php:6869
+msgid "Support & Docs"
+msgstr "Podpora & Dokumentace"
+
+#: app/Common/Admin/Admin.php:364
+msgid "Link has been inserted."
+msgstr "Link byl vložen."
+
+#: app/Common/Admin/Admin.php:362
+msgid "No results found."
+msgstr "Nebyly nalezeny žádné výsledky."
+
+#: app/Common/Admin/Admin.php:360 app/Common/Traits/Helpers/Wp.php:769
+#: app/Common/Traits/Helpers/Wp.php:775
+msgid "(no title)"
+msgstr "(bez názvu)"
+
+#: app/Common/Admin/Admin.php:975
+msgid "Give us a 5-star rating!"
+msgstr "Dejte nám 5hvězdičkové hodnocení!"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/Notices/Notices.php:573
+msgid "Warning: %1$s has detected other active SEO or sitemap plugins. We recommend that you deactivate the following plugins to prevent any conflicts:"
+msgstr "Upozornění: %1$s zjistil další aktivní SEO nebo sitemap pluginy. Doporučujeme deaktivovat následující pluginy, abyste předešli konfliktům:"
+
+#. Translators: 1 - The plugin name ("All in One SEO"), 2 - "upgrading to Pro".
+#: languages/aioseo-lite.php:8951
+msgid "You're using %1$s. To unlock more features, consider %2$s"
+msgstr "Používáte %1$s. Chcete-li odemknout další funkce, zvažte %2$s"
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: languages/aioseo-lite.php:8947
+msgid "You're using %1$s - no license needed. Enjoy!"
+msgstr "Používáte %1$s – není potřeba žádná licence. Užívejte si!"
+
+#: app/Common/Admin/Admin.php:543
+msgid "Analyze this page"
+msgstr "Analyzovat tuto stránku"
+
+#: languages/aioseo-lite.php:4740
+msgid "never"
+msgstr "nikdy"
+
+#: languages/aioseo-lite.php:831
+msgid "always"
+msgstr "vždy"
+
+#: languages/aioseo-lite.php:8744
+msgid "yearly"
+msgstr "ročně"
+
+#: languages/aioseo-lite.php:3571
+msgid "hourly"
+msgstr "po hodinách"
+
+#: app/Common/Admin/Admin.php:263 languages/aioseo-lite.php:457
+msgid "About Us"
+msgstr "O nás"
+
+#: app/Common/Admin/Notices/Review.php:107
+#: app/Common/Admin/Notices/Review.php:160 languages/aioseo-lite.php:4967
+msgid "Nope, maybe later"
+msgstr "Ne, možná později"
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: app/Common/Admin/Notices/Review.php:106
+#: app/Common/Admin/Notices/Review.php:159 languages/aioseo-lite.php:5062
+msgid "Ok, you deserve it"
+msgstr "Dobře, zasloužíte si to"
+
+#. Translators: 1 - "Pro".
+#: app/Lite/Admin/Notices/Notices.php:84 languages/aioseo-lite.php:8070
+msgid "Upgrade to %1$s"
+msgstr "Upgradovat na %1$s"
+
+#. Translators: 1 - "upgrading to Pro".
+#: languages/aioseo-lite.php:7697
+msgid "To unlock more features, consider %1$s."
+msgstr "Chcete-li odemknout další funkce, zvažte %1$s."
+
+#: app/Common/Admin/Notices/Review.php:108
+#: app/Common/Admin/Notices/Review.php:161
+msgid "I already did"
+msgstr "Už se stalo"
+
+#: app/Common/Admin/Notices/Review.php:102 languages/aioseo-lite.php:3223
+msgid "Give feedback"
+msgstr "Poskytnout zpětnou vazbu"
+
+#. Translators: This is an action link users can click to open a feature
+#. request.
+#: app/Lite/Main/Filters.php:32 languages/aioseo-lite.php:6840
+msgid "Suggest a Feature"
+msgstr "Navrhnout funkci"
+
+#: app/Common/Utils/Tags.php:331
+msgid "Your image's alt tag attribute."
+msgstr "Atribut značky alt vašeho obrázku."
+
+#. Translators: 1 - "50% off".
+#: languages/aioseo-lite.php:1068
+msgid "As a valued user you receive %1$s, automatically applied at checkout!"
+msgstr "Jako vážený uživatel dostáváte %1$s, automaticky uplatněno při placení!"
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: app/Common/Admin/Notices/Review.php:99 languages/aioseo-lite.php:8478
+msgid "We're sorry to hear you aren't enjoying %1$s. We would love a chance to improve. Could you take a minute and let us know what we can do better?"
+msgstr "Je nám líto, že se vám %1$s nelíbí. Rádi bychom dostali šanci se zlepšit. Mohl byste si najít chvilku a dát nám vědět, co můžeme udělat lépe?"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/Notices/Review.php:92 languages/aioseo-lite.php:975
+msgid "Are you enjoying %1$s?"
+msgstr "Užíváte si %1$s?"
+
+#. Author of the plugin
+#: all_in_one_seo_pack.php
+msgid "All in One SEO Team"
+msgstr "All in One SEO tým"
+
+#: languages/aioseo-lite.php:533
+msgid "Ad free (no banner adverts)"
+msgstr "Bez reklam (bez bannerových reklam)"
+
+#: languages/aioseo-lite.php:5418
+msgid "Phone Number"
+msgstr "Telefonní číslo"
+
+#: languages/aioseo-lite.php:2014
+msgid "Customer Support"
+msgstr "Zákaznická podpora"
+
+#: languages/aioseo-lite.php:6916
+msgid "Technical Support"
+msgstr "Technická podpora"
+
+#: languages/aioseo-lite.php:5952
+msgid "Reservations"
+msgstr "Rezervace"
+
+#: languages/aioseo-lite.php:5219
+msgid "Organization Name"
+msgstr "Název organizace"
+
+#: languages/aioseo-lite.php:1272
+msgid "Billing Support"
+msgstr "Podpora prodeje"
+
+#: languages/aioseo-lite.php:6028
+msgid "Sales"
+msgstr "Prodeje"
+
+#: app/Common/Breadcrumbs/Tags.php:206
+msgid "The page number."
+msgstr "Číslo stránky."
+
+#: app/Common/Breadcrumbs/Tags.php:190 languages/aioseo-lite.php:4615
+msgid "Month"
+msgstr "Měsíc"
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: languages/aioseo-lite.php:8534
+msgid "Welcome to %1$s"
+msgstr "Vítejte na %1$s"
+
+#: app/Common/Admin/Notices/Review.php:103 languages/aioseo-lite.php:4920
+msgid "No thanks"
+msgstr "Děkuji nechci"
+
+#: languages/aioseo-lite.php:2302
+msgid "Dismiss"
+msgstr "Zamítnout"
+
+#: languages/aioseo-lite.php:959
+msgid "Archive"
+msgstr "Archív"
+
+#: app/Common/Utils/Tags.php:402 languages/aioseo-lite.php:1489
+msgid "Category"
+msgstr "Kategorie"
+
+#: app/Common/Breadcrumbs/Breadcrumbs.php:296
+msgid "Page"
+msgstr "Strana"
+
+#: app/Common/Views/sitemap/html/widget-options.php:163
+#: languages/aioseo-lite.php:2729
+msgid "Exclude Terms"
+msgstr "Vyloučit podmínky"
+
+#: app/Common/Tools/SystemStatus.php:401 languages/aioseo-lite.php:3816
+msgid "Inactive Plugins"
+msgstr "Neaktivní pluginy"
+
+#: app/Common/Tools/SystemStatus.php:369 languages/aioseo-lite.php:518
+msgid "Active Plugins"
+msgstr "Aktivní pluginy"
+
+#: languages/aioseo-lite.php:1129
+msgid "Author Pages"
+msgstr "Stránky autora"
+
+#: app/Common/Utils/Tags.php:397 app/Common/Utils/Tags.php:569
+msgid "Your site title."
+msgstr "Název vašeho webu."
+
+#: app/Common/Views/sitemap/xsl/templates/header.php:65
+msgid "sitemaps"
+msgstr "sitemaps"
+
+#: app/Common/Views/sitemap/xsl/templates/header.php:24
+#: app/Common/Views/sitemap/xsl/templates/header.php:33
+msgid "Generated by"
+msgstr "Generováno od"
+
+#: app/Common/Views/sitemap/xsl/templates/header.php:53
+#: languages/aioseo-lite.php:8123
+msgid "URLs"
+msgstr "URL"
+
+#: languages/aioseo-lite.php:3331
+msgid "Google Search Console"
+msgstr "Google vyhledávací konzole"
+
+#: languages/aioseo-lite.php:1279
+msgid "Bing Webmaster Tools"
+msgstr "Bing nástroje pro Webmastery"
+
+#: languages/aioseo-lite.php:2289
+msgid "Disallow"
+msgstr "Zakázat"
+
+#: languages/aioseo-lite.php:794
+msgid "Allow"
+msgstr "povolit"
+
+#: languages/aioseo-lite.php:2710
+msgid "Exclude Images"
+msgstr "Vynechat obrázky"
+
+#: app/Common/Tools/SystemStatus.php:58
+msgid "Site Language"
+msgstr "Jazyk stránek"
+
+#: app/Common/Tools/SystemStatus.php:54 app/Common/Utils/Tags.php:396
+#: app/Common/Utils/Tags.php:568 languages/aioseo-lite.php:6604
+msgid "Site Title"
+msgstr "Název webu"
+
+#: app/Common/Tools/SystemStatus.php:98
+msgid "Search Engine Visibility"
+msgstr "Viditelnost pro vyhledávače"
+
+#: languages/aioseo-lite.php:686
+msgid "Advanced support for e-commerce"
+msgstr "Rozšířená podpora pro e-commerce"
+
+#: app/Common/Admin/Dashboard.php:80 languages/aioseo-lite.php:6383
+msgid "SEO News"
+msgstr "Novinky SEO"
+
+#: languages/aioseo-lite.php:8058
+msgid "Upgrade"
+msgstr "Aktualizace"
+
+#: languages/aioseo-lite.php:2406
+msgid "Dynamically creates the XML Sitemap instead of using a static file."
+msgstr "XML sitemapa se bude vždy dynamicky vytvářet. V opačném případě budou vygenerovány statické soubory."
+
+#: languages/aioseo-lite.php:897
+msgid "Analyze"
+msgstr "Analyzovat"
+
+#. Description of the plugin
+#: all_in_one_seo_pack.php
+msgid "SEO for WordPress. Features like XML Sitemaps, SEO for custom post types, SEO for blogs, business sites, ecommerce sites, and much more. More than 100 million downloads since 2007."
+msgstr "Bezkrabicové SEO pro váš blog na WordPressu. Funkce jako mapy stránek XLM, SEO pro vlastní typy příspěvků, SEO pro stránky obchodu a mnohem více. Téměř 100 miliónů stažení od roku 2007."
+
+#: languages/aioseo-lite.php:1285
+msgid "Block Bad Bots using HTTP"
+msgstr "Zablokovat špatné boty, používající HTTP"
+
+#: languages/aioseo-lite.php:1304
+msgid "Block Referral Spam using HTTP"
+msgstr "Zablokovat referenční spam, používající HTTP"
+
+#: languages/aioseo-lite.php:3683
+msgid "Image SEO"
+msgstr "SEO obrázku"
+
+#: languages/aioseo-lite.php:8152
+msgid "Use Custom Blocklists"
+msgstr "Použít vlastní seznamy blokace"
+
+#. Translators: This is an action link users can click to purchase a license
+#. for All in One SEO Pro.
+#: app/Lite/Admin/Admin.php:51 app/Lite/Admin/Admin.php:80
+#: app/Lite/Main/Filters.php:76 languages/aioseo-lite.php:8088
+msgid "Upgrade to Pro"
+msgstr "Placená verze PRO"
+
+#. Translators: This is an action link users can click to open our general
+#. documentation page.
+#: app/Lite/Main/Filters.php:71
+msgid "Documentation"
+msgstr "Dokumentace"
+
+#. Translators: This is an action link users can click to open the General
+#. Settings menu.
+#: app/Common/Admin/Admin.php:646 app/Lite/Main/Filters.php:61
+#: languages/aioseo-lite.php:6408
+msgid "SEO Settings"
+msgstr "SEO nastavení"
+
+#: languages/aioseo-lite.php:4284
+msgid "License Key"
+msgstr "Licenční klíč"
+
+#: languages/aioseo-lite.php:2784
+msgid "Facebook Admin ID"
+msgstr "Admin ID Facebooku"
+
+#: languages/aioseo-lite.php:2787
+msgid "Facebook App ID"
+msgstr "App ID Facebooku"
+
+#: languages/aioseo-lite.php:2017
+msgid "daily"
+msgstr "Denně"
+
+#: languages/aioseo-lite.php:8523
+msgid "weekly"
+msgstr "Týdně"
+
+#: languages/aioseo-lite.php:4618
+msgid "monthly"
+msgstr "Měsíčně"
+
+#: app/Common/Views/sitemap/html/widget-options.php:97
+#: languages/aioseo-lite.php:6900
+msgid "Taxonomies"
+msgstr "Taxonomie"
+
+#: languages/aioseo-lite.php:5315
+msgid "Page URL"
+msgstr "URL stránky"
+
+#: app/Common/Sitemap/Xsl.php:39 languages/aioseo-lite.php:617
+msgid "Additional Pages"
+msgstr "Další stránky"
+
+#: languages/aioseo-lite.php:599
+msgid "Add URL"
+msgstr "Přidat URL"
+
+#: languages/aioseo-lite.php:2584
+msgid "Enable Sitemap Indexes"
+msgstr "Povolit indexy mapy stránek"
+
+#: app/Common/Views/sitemap/html/widget-options.php:74
+#: languages/aioseo-lite.php:5587
+msgid "Post Types"
+msgstr "Typ článku"
+
+#: app/Common/Sitemap/Output.php:32
+msgid "dynamically"
+msgstr "dynamicky"
+
+#: languages/aioseo-lite.php:3031
+msgid "Frequency"
+msgstr "Frekvence"
+
+#: app/Common/Views/sitemap/xsl/default.php:309 languages/aioseo-lite.php:5664
+msgid "Priority"
+msgstr "Priorita"
+
+#: languages/aioseo-lite.php:4210
+msgid "Last Modified"
+msgstr "Naposledy změněno"
+
+#: app/Common/Views/sitemap/xsl/default.php:296
+msgid "Change Frequency"
+msgstr "Změna frekvence"
+
+#. Plugin Name of the plugin
+#: all_in_one_seo_pack.php
+msgid "All in One SEO"
+msgstr "All in One SEO"
+
+#: languages/aioseo-lite.php:2445
+#: dist/Lite/assets/link-format/link-format-block.js:2
+msgid "Edit"
+msgstr "Upravit"
+
+#: app/Common/Tools/SystemStatus.php:83 app/Common/Tools/SystemStatus.php:87
+#: app/Common/Tools/SystemStatus.php:282 app/Common/Tools/SystemStatus.php:286
+#: app/Common/Tools/SystemStatus.php:290 languages/aioseo-lite.php:8755
+msgid "Yes"
+msgstr "Ano"
+
+#: app/Common/Tools/SystemStatus.php:307 languages/aioseo-lite.php:521
+msgid "Active Theme"
+msgstr "Aktivní šablona"
+
+#: app/Common/Tools/SystemStatus.php:82
+msgid "Multisite"
+msgstr "Multisite"
+
+#: languages/aioseo-lite.php:3713
+msgid "Import"
+msgstr "Importovat"
+
+#: languages/aioseo-lite.php:1113
+msgid "Author"
+msgstr "Autor"
+
+#: app/Common/Tools/SystemStatus.php:74
+msgid "Site URL"
+msgstr "URL webu"
+
+#: languages/aioseo-lite.php:6045
+msgid "Save"
+msgstr "Uložit"
+
+#: languages/aioseo-lite.php:2781
+msgid "Facebook"
+msgstr "Facebook"
+
+#: languages/aioseo-lite.php:6801
+#: dist/Lite/assets/link-format/link-format-block.js:2
+msgid "Submit"
+msgstr "Odeslat"
+
+#. Translators: This is an action link users can click to open our premium
+#. support.
+#: app/Lite/Main/Filters.php:66 languages/aioseo-lite.php:6866
+msgid "Support"
+msgstr "Podpora"
+
+#: languages/aioseo-lite.php:1898
+msgid "Country"
+msgstr "Země"
+
+#: app/Common/Tools/SystemStatus.php:261
+msgid "PHP Version"
+msgstr "Verze PHP"
+
+#: app/Common/Admin/Admin.php:448 app/Common/Admin/SiteHealth.php:91
+msgid "SEO"
+msgstr "SEO"
+
+#: languages/aioseo-lite.php:5382
+msgid "Performance"
+msgstr "Výkon"
+
+#: languages/aioseo-lite.php:11
+msgid ".htaccess Editor"
+msgstr "Editor .htaccess"
+
+#: languages/aioseo-lite.php:2759
+msgid "Export Settings"
+msgstr "Exportovat nastavení"
+
+#: languages/aioseo-lite.php:6736
+msgid "Sport"
+msgstr "Sport"
+
+#: languages/aioseo-lite.php:1231
+msgid "Bar"
+msgstr "Bar"
+
+#: languages/aioseo-lite.php:1451
+msgid "Cafe"
+msgstr "Kavárna"
+
+#: languages/aioseo-lite.php:3565
+msgid "Hotel"
+msgstr "Hotel"
+
+#: languages/aioseo-lite.php:5973
+msgid "Restaurant"
+msgstr "Restaurace"
+
+#: languages/aioseo-lite.php:6745
+msgid "Sports League"
+msgstr "Sportovní liga"
+
+#: languages/aioseo-lite.php:6748
+msgid "Sports Team"
+msgstr "Sportovní tým"
+
+#: languages/aioseo-lite.php:1228
+msgid "Band"
+msgstr "Kapela"
+
+#: languages/aioseo-lite.php:4952
+msgid "Non-Profit"
+msgstr "Nezisková organizace"
+
+#: languages/aioseo-lite.php:6107
+msgid "School"
+msgstr "Škola"
+
+#: languages/aioseo-lite.php:7933
+msgid "University"
+msgstr "Univerzita"
+
+#: languages/aioseo-lite.php:530
+msgid "Actor"
+msgstr "Herec"
+
+#: languages/aioseo-lite.php:1094
+msgid "Athlete"
+msgstr "Atlet"
+
+#: languages/aioseo-lite.php:4670
+msgid "Musician"
+msgstr "Hudebník"
+
+#: languages/aioseo-lite.php:5506
+msgid "Politician"
+msgstr "Politik"
+
+#: languages/aioseo-lite.php:1583
+msgid "City"
+msgstr "Město"
+
+#: languages/aioseo-lite.php:4176
+msgid "Landmark"
+msgstr "Památka"
+
+#: languages/aioseo-lite.php:724
+msgid "Album"
+msgstr "Album"
+
+#: languages/aioseo-lite.php:1340
+msgid "Book"
+msgstr "Kniha"
+
+#: languages/aioseo-lite.php:2391
+msgid "Drink"
+msgstr "Nápoj"
+
+#: languages/aioseo-lite.php:2965
+msgid "Food"
+msgstr "Jídlo"
+
+#: languages/aioseo-lite.php:3066
+msgid "Game"
+msgstr "Hra"
+
+#: languages/aioseo-lite.php:4650
+msgid "Movie"
+msgstr "Film"
+
+#: app/Common/Main/Updates.php:1169 languages/aioseo-lite.php:5682
+msgid "Product"
+msgstr "Produkt"
+
+#: languages/aioseo-lite.php:6708
+msgid "Song"
+msgstr "Písnička"
+
+#: app/Common/Main/Updates.php:1127 languages/aioseo-lite.php:1051
+msgid "Article"
+msgstr "Článek"
+
+#: languages/aioseo-lite.php:1329
+msgid "Blog"
+msgstr "Blog"
+
+#: languages/aioseo-lite.php:3668
+msgid "Image"
+msgstr "Obrázek"
+
+#: app/Common/Tools/SystemStatus.php:79 languages/aioseo-lite.php:2098
+msgid "Default"
+msgstr "Výchozí"
+
+#: languages/aioseo-lite.php:6460
+msgid "Server"
+msgstr "Server"
+
+#: languages/aioseo-lite.php:1984
+msgid "Custom Image"
+msgstr "Vlastní obrázek"
+
+#: languages/aioseo-lite.php:593
+msgid "Add Rule"
+msgstr "Přidat pravidlo"
+
+#: languages/aioseo-lite.php:8360
+msgid "View the Changelog"
+msgstr "Prohlédnout si seznam změn"
+
+#: languages/aioseo-lite.php:5998
+msgid "Robots.txt"
+msgstr "Robots.txt"
+
+#: app/Common/Views/report/summary.php:146
+#: app/Common/Views/report/summary.php:243
+#: app/Common/Views/report/summary.php:613
+#: app/Common/Views/report/summary.php:754 languages/aioseo-lite.php:5536
+msgid "Post"
+msgstr "Příspěvek"
+
+#: languages/aioseo-lite.php:2448
+msgid "Edit .htaccess"
+msgstr "Upravit .htaccess"
+
+#: languages/aioseo-lite.php:2686
+msgid "Episode"
+msgstr "Epizoda"
+
+#: languages/aioseo-lite.php:1695
+msgid "Company"
+msgstr "Společnost"
+
+#: languages/aioseo-lite.php:5700
+msgid "Profile"
+msgstr "Profil"
+
+#: languages/aioseo-lite.php:3292
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: languages/aioseo-lite.php:8499
+msgid "Website"
+msgstr "Webová stránka"
+
+#: languages/aioseo-lite.php:527
+msgid "Activity"
+msgstr "Aktivita"
+
+#: app/Common/Tools/SystemStatus.php:245
+msgid "Memory Usage"
+msgstr "Využití paměti"
+
+#: languages/aioseo-lite.php:5068
+msgid "On"
+msgstr "Zapnuto"
+
+#: languages/aioseo-lite.php:5058
+msgid "Off"
+msgstr "Vypnuto"
+
+#: app/Common/Tools/SystemStatus.php:237
+msgid "Operating System"
+msgstr "Operační systém"
+
+#: app/Common/Tools/SystemStatus.php:269
+msgid "PHP Max Upload Size"
+msgstr "PHP Max Upload Size"
+
+#: app/Common/Tools/SystemStatus.php:273
+msgid "PHP Max Post Size"
+msgstr "PHP Max Post Size"
+
+#: app/Common/Tools/SystemStatus.php:277
+msgid "PHP Max Script Execution Time"
+msgstr "PHP Max Script Execute Time"
+
+#: languages/aioseo-lite.php:2890
+msgid "First Image in Content"
+msgstr "První obrázek v obsahu"
+
+#: languages/aioseo-lite.php:5539
+msgid "Post Author Image"
+msgstr "Obrázek autora článku"
+
+#: languages/aioseo-lite.php:5396
+msgid "Person"
+msgstr "Osoba"
+
+#: languages/aioseo-lite.php:5211
+msgid "Organization"
+msgstr "Organizace"
+
+#: languages/aioseo-lite.php:2887
+msgid "First Available Image"
+msgstr "První dostupný obrázek"
+
+#: app/Common/Tools/SystemStatus.php:174 app/Common/Tools/SystemStatus.php:178
+#: app/Common/Tools/SystemStatus.php:182 app/Common/Tools/SystemStatus.php:186
+#: app/Common/Tools/SystemStatus.php:190 app/Common/Tools/SystemStatus.php:194
+#: app/Common/Tools/SystemStatus.php:198 app/Common/Tools/SystemStatus.php:202
+#: app/Common/Tools/SystemStatus.php:206
+msgid "Not set"
+msgstr "Nenastaveno"
+
+#: languages/aioseo-lite.php:683
+msgid "Advanced Settings"
+msgstr "Rozšířená nastavení"
+
+#: languages/aioseo-lite.php:801
+msgid "Allows you to specify the maximum number of posts in a sitemap (up to 50,000)."
+msgstr "Umožňuje vám specifikovat maximální počet článků v mapě stránek (do 50.000)."
+
+#: languages/aioseo-lite.php:1054
+msgid "Article Section"
+msgstr "Sekce článku"
+
+#: languages/aioseo-lite.php:1057
+msgid "Article Tags"
+msgstr "Štítky článku"
+
+#: languages/aioseo-lite.php:1172
+msgid "Automatically Generate Article Tags"
+msgstr "Automaticky vygenerovat štítky pro článek"
+
+#: languages/aioseo-lite.php:1498
+msgid "Cause"
+msgstr "Důvod"
+
+#: languages/aioseo-lite.php:2265
+msgid "Director"
+msgstr "Ředitel"
+
+#: languages/aioseo-lite.php:2511
+msgid "Email Debug Information"
+msgstr "Informace o ladění e-mailu"
+
+#: app/Common/Admin/Admin.php:628
+msgid "Edit SEO"
+msgstr "Upravit SEO"
+
+#: app/Common/Admin/Admin.php:254 languages/aioseo-lite.php:2835
+msgid "Feature Manager"
+msgstr "Správce funkcí"
+
+#: languages/aioseo-lite.php:3045
+msgid "Front Page"
+msgstr "Hlavní stránka"
+
+#: languages/aioseo-lite.php:3214
+msgid "Getting started? Read the Beginners Guide"
+msgstr "Začínáte? Přečtěte si Návod pro začátečníky"
+
+#: app/Common/Utils/Tags.php:550
+msgid "Site Description"
+msgstr "Popis domovské stránky"
+
+#: app/Common/Tools/SystemStatus.php:70
+msgid "Home URL"
+msgstr "Adresa (URL) domovské stránky"
+
+#: languages/aioseo-lite.php:3674
+msgid "Image from Custom Field"
+msgstr "Obrázek autora článku"
+
+#: languages/aioseo-lite.php:3860
+msgid "Include Author Archives in your sitemap."
+msgstr "Zahrnout archivy autorů do vaší mapy stránek."
+
+#: languages/aioseo-lite.php:3864
+msgid "Include Date Archives in your sitemap."
+msgstr "Zahrnout archivy dat do vaší mapy stránek."
+
+#: app/Common/EmailReports/Summary/Content.php:556
+#: app/Common/EmailReports/Summary/Content.php:582
+#: app/Common/Tools/SystemStatus.php:246 languages/aioseo-lite.php:4682
+msgid "N/A"
+msgstr "Nehodí se"
+
+#: app/Common/Tools/SystemStatus.php:83 app/Common/Tools/SystemStatus.php:87
+#: app/Common/Tools/SystemStatus.php:282 app/Common/Tools/SystemStatus.php:286
+#: app/Common/Tools/SystemStatus.php:290 languages/aioseo-lite.php:4788
+msgid "No"
+msgstr "Ne"
+
+#: languages/aioseo-lite.php:5047
+msgid "Object Type"
+msgstr "Typ objektu"
+
+#: app/Common/Tools/SystemStatus.php:281
+msgid "PHP Exif Support"
+msgstr "Podpora PHP Exif"
+
+#: app/Common/Tools/SystemStatus.php:285
+msgid "PHP IPTC Support"
+msgstr "Podpora PHP IPTC"
+
+#: app/Common/Tools/SystemStatus.php:265
+msgid "PHP Memory Limit"
+msgstr "PHP paměťový limit"
+
+#: app/Common/Tools/SystemStatus.php:289
+msgid "PHP XML Support"
+msgstr "Podpora PHP XML"
+
+#: languages/aioseo-lite.php:5710
+msgid "Public Figure"
+msgstr "Veřejný činitel"
+
+#: languages/aioseo-lite.php:5959
+msgid "Reset Selected Settings to Default"
+msgstr "Resetovat Obecná nastavení na Výchozí."
+
+#: languages/aioseo-lite.php:6002
+msgid "Robots.txt Editor"
+msgstr "Editor Robots.txt"
+
+#: app/Common/Migration/SocialMeta.php:79
+msgid "Run Shortcodes in Description"
+msgstr "Spustit SHORTCODES v popisu"
+
+#: app/Common/Migration/SocialMeta.php:83
+msgid "Run Shortcodes in Title"
+msgstr "Spustit SHORTCODES v názvu"
+
+#: app/Common/Tools/SystemStatus.php:257
+msgid "SQL Mode"
+msgstr "Mód SQL"
+
+#: languages/aioseo-lite.php:6303
+msgid "Select which Post Types appear in your sitemap."
+msgstr "Vyberte, které typy článků se zobrazí ve vaší mapě stránek."
+
+#: languages/aioseo-lite.php:6312
+msgid "Select which Taxonomies appear in your sitemap."
+msgstr "Vyberte, které archivy taxonomii se mají zobrazit ve vaší mapě stránek"
+
+#: languages/aioseo-lite.php:6601
+msgid "Site Name"
+msgstr "Název stránky"
+
+#: languages/aioseo-lite.php:6765
+msgid "State/Province"
+msgstr "Státní provincie"
+
+#: languages/aioseo-lite.php:6844
+msgid "Summary"
+msgstr "Shrnutí"
+
+#: languages/aioseo-lite.php:6872
+msgid "System Status"
+msgstr "Status systému"
+
+#: languages/aioseo-lite.php:7867
+msgid "TV Show"
+msgstr "TV šou"
+
+#: languages/aioseo-lite.php:8046
+msgid "Update Options"
+msgstr "Aktualizovat možnosti"
+
+#: languages/aioseo-lite.php:8146
+msgid "Use Categories in Article Tags"
+msgstr "Použít kategorie ve štítcích článku"
+
+#: languages/aioseo-lite.php:8169
+msgid "Use Keywords in Article Tags"
+msgstr "Použít klíčová slova ve štítcích článku"
+
+#: languages/aioseo-lite.php:8183
+msgid "Use Post Tags in Article Tags"
+msgstr "Použít štítky příspěvku pro štítky článku"
+
+#: languages/aioseo-lite.php:8253
+msgid "User Agent"
+msgstr "Uživatelský Agent"
+
+#: app/Common/Tools/SystemStatus.php:50 languages/aioseo-lite.php:8297
+msgid "Version"
+msgstr "Verze "
+
+#: languages/aioseo-lite.php:8318
+msgid "Video Sitemap"
+msgstr "Mapa stránek videa"
+
+#: languages/aioseo-lite.php:8400
+msgid "Watch video tutorials"
+msgstr "Shlédnout instruktážní videa"
+
+#: app/Common/Utils/Tags.php:458 languages/aioseo-lite.php:2838
+msgid "Featured Image"
+msgstr "Náhledový obrázek"
+
+#: languages/aioseo-lite.php:5403
+msgid "Person or Organization"
+msgstr "Osoba nebo organizace"
+
+#: languages/aioseo-lite.php:8734
+msgid "XML Sitemap"
+msgstr "XML Sitemap"
+
+#: languages/aioseo-lite.php:6659
+msgid "Social Media"
+msgstr "Sociální média"
+
+#: languages/aioseo-lite.php:1465
+msgid "Cancel"
+msgstr "Zrušit"
+
+#: languages/aioseo-lite.php:2293
+msgid "Discard Changes"
+msgstr "Zahodit změny"
+
+#: languages/aioseo-lite.php:2599
+msgid "Enabled"
+msgstr "Povoleno"
+
+#: app/Common/Tools/SystemStatus.php:174 app/Common/Tools/SystemStatus.php:178
+#: app/Common/Tools/SystemStatus.php:182 app/Common/Tools/SystemStatus.php:186
+#: app/Common/Tools/SystemStatus.php:190 app/Common/Tools/SystemStatus.php:194
+#: app/Common/Tools/SystemStatus.php:198 app/Common/Tools/SystemStatus.php:202
+#: app/Common/Tools/SystemStatus.php:206 languages/aioseo-lite.php:2280
+msgid "Disabled"
+msgstr "Zakázáno"
+
+#: languages/aioseo-lite.php:2330
+msgid "Display Settings"
+msgstr "Nastavení zobrazení"
+
+#: languages/aioseo-lite.php:4477
+msgid "Manage Google Analytics"
+msgstr "Zakázat Google Analytics"
+
+#: languages/aioseo-lite.php:2230
+msgid "Description Format"
+msgstr "Formát štítku popisu"
+
+#: languages/aioseo-lite.php:3551
+msgid "Home Page Settings"
+msgstr "Nastavení domovské stránky"
+
+#: languages/aioseo-lite.php:7592
+msgid "This string gets appended to the titles and descriptions of paginated pages (like term or archive pages)."
+msgstr "Tento řetězec se umístí na začátek nebo konec názvů očíslovaných indexovaných stránek (jako domácí nebo archivní stránky)."
+
+#: app/Common/Admin/Admin.php:361
+#: app/Common/Views/sitemap/html/widget-options.php:13
+#: languages/aioseo-lite.php:7633
+msgid "Title"
+msgstr "Název"
+
+#: app/Common/Utils/Tags.php:453 languages/aioseo-lite.php:2227
+msgid "Description"
+msgstr "Description"
+
+#: app/Common/Admin/Admin.php:209 languages/aioseo-lite.php:4722
+msgid "Network Settings"
+msgstr "Nastavení sítě"
+
+#: languages/aioseo-lite.php:1473
+msgid "Canonical URL"
+msgstr "Kanonická URL"
+
+#: languages/aioseo-lite.php:1508
+msgid "Check this if you want your categories for a given post used as the Meta Keywords for this post (in addition to any keywords you specify on the Edit Post screen)."
+msgstr "Zaškrtněte toto, pokud chcete, aby vaše kategorie pro určitý příspěvek byly použity jako meta klíčová slova pro tento příspěvek (přidají se k ostatním klíčovým slovům, které jste specifikovali na stránce Upravit příspěvek)."
+
+#: languages/aioseo-lite.php:1511
+msgid "Check this if you want your keywords on your Posts page (set in WordPress under Settings, Reading, Front Page Displays) and your archive pages to be dynamically generated from the keywords of the posts showing on that page. If unchecked, it will use the keywords set in the edit page screen for the posts page."
+msgstr "Zaškrtněte toto, pokud chcete, aby klíčová slova na vaší stránce s příspěvky (nachází se ve WordPressu pod Nastavení, Čtení, Zobrazení titulní stránky) a vaše stránky Archivu byly dynamicky generované z klíčových slov příspěvků zobrazujících se na stránce. Pokud tuto možnost nezaškrtnete, použijí se klíčová slova z obrazovky pro upravení stránky pro stránku s příspěvky."
+
+#: languages/aioseo-lite.php:1514
+msgid "Check this if you want your tags for a given post used as the Meta Keywords for this post (in addition to any keywords you specify on the Edit Post screen)."
+msgstr "Zaškrtněte toto, pokud chcete, aby byly vaše štítky pro daný příspěvek použity jako meta klíčová slova pro tento příspěvek (budou přidány ke klíčovým slovům, která specifikujete v obrazovce Upravit příspěvek)."
+
+#: languages/aioseo-lite.php:7547
+msgid "This option allows you to toggle the use of Meta Keywords throughout the whole of the site."
+msgstr "Toto nastavení umožňuje přepnout použití meta klíčových slov pro celou stránku."
+
+#: languages/aioseo-lite.php:1208
+msgid "Bad Bot Blocker"
+msgstr "Blokátor špatných botů"
+
+#: app/Common/Admin/Admin.php:210 languages/aioseo-lite.php:3082
+msgid "General Settings"
+msgstr "Obecná nastavení"
+
+#: languages/aioseo-lite.php:5870
+msgid "Referer Blocklist"
+msgstr "Blocklisty refererů"
+
+#: languages/aioseo-lite.php:7807
+msgid "Track Blocked Bots"
+msgstr "Vystopovat zablokované boty"
+
+#: languages/aioseo-lite.php:8256
+msgid "User Agent Blocklist"
+msgstr "Blocklisty user agentů"
+
+#. Translators: 1 - The IP address. 2 - The referer.
+#: app/Common/Tools/BadBotBlocker.php:237
+msgid "Blocked bot with IP %1$s -- matched referer %2$s found in blocklist."
+msgstr "Zablokovaný bot s IP %1$s -- přiřazený referovatel %2$s nalezen v blocklistu."
+
+#. Translators: 1 - The IP address. 2 - The user agent.
+#: app/Common/Tools/BadBotBlocker.php:228
+msgid "Blocked bot with IP %1$s -- matched user agent %2$s found in blocklist."
+msgstr "Zablokovaný bot s IP %1$s -- přiřazený uživatelský agent %2$s nalezen v blocklistu."

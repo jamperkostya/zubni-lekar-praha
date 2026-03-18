@@ -1,0 +1,16 @@
+{
+	"name": "frontpack/lightbox2",
+	"type": "library",
+	"description": "Shim repository for lightbox2",
+	"license": "MIT",
+	"extra": {
+		"assets-files": [
+			"css/",
+			"images/",
+			"js/"
+		]
+	},
+	"require": {
+		"components/jquery": ">=1.7"
+	}
+}

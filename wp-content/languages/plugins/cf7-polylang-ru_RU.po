@@ -1,0 +1,56 @@
+# Translation of Plugins - Contact Form 7 Polylang Module - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - Contact Form 7 Polylang Module - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-05-29 13:36:22+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Contact Form 7 Polylang Module - Development (trunk)\n"
+
+#: admin/class-cf7-polylang-admin.php:165
+msgid "Warning: save contact forms translation in Polylang "
+msgstr "Предупреждение: сохраните перевод контактных форм в Polylang "
+
+#: includes/class-cf7-polylang-activator.php:71
+msgid "You need to set up your <a href=\"%s\" target=\"_parent\">languages</a> in Polylang first."
+msgstr "Сначала вам нужно настроить <a href=\"%s\" target=\"_parent\">языки</a> в Polylang."
+
+#: includes/class-cf7-polylang-activator.php:61
+msgid "This plugin requires the Polylang plugin to be installed first"
+msgstr "Этот плагин требует, чтобы сперва был установлен плагин Polylang."
+
+#: includes/class-cf7-polylang-activator.php:42
+msgid "This plugin requires the Contact Form 7 plugin to be installed first"
+msgstr "Этот плагин требует, чтобы сперва был установлен плагин Contact Form 7."
+
+#: includes/class-cf7-polylang-activator.php:52
+msgid "Contact Form 7 Polylang extension <strong>WARNING</strong>: due to the evolution of Polylang plugin, and non-WP standard coded CF7 plugin, this plugin is now an extension of the <a href=\"https://wordpress.org/plugins/cf7-grid-layout/\">CF7 Smart Grid-layout</a> plugin.<br /> Please install it to get the full functionality of PolyLang in CF7 admin pages. If you choose <strong>not</strong> to install it, your existing forms will continue to work, but you will not be able to create <em>new translations</em>. More information on the plugin <a href=\"https://wordpress.org/plugins/cf7-polylang/\">page</a>."
+msgstr "Расширение Contact Form 7 Polylang <strong>ВНИМАНИЕ</strong>: в связи с развитием плагина Polylang и плагина CF7, не являющегося стандартным кодом WP, этот плагин теперь является расширением <a href=\"https://wordpress.org/plugins/cf7-grid-layout/\">Плагин CF7 Smart Grid-layout</a>.<br /> Установите его, чтобы получить полную функциональность PolyLang на страницах администрирования CF7. Если вы выберете <strong>не</strong> его установку, ваши существующие формы продолжат работать, но вы не сможете создавать <em>новые переводы</em>. Более подробная информация представлена на <a href=\"https://wordpress.org/plugins/cf7-polylang/\">странице</a> плагина."
+
+#: admin/class-cf7-polylang-admin.php:162
+msgid "settings"
+msgstr "настройки"
+
+#. Author URI of the plugin
+msgid "http://syllogic.in"
+msgstr "http://syllogic.in"
+
+#. Author of the plugin
+msgid "Aurovrata V."
+msgstr "Aurovrata V."
+
+#. Plugin URI of the plugin
+msgid "http://wordpress.syllogic.in"
+msgstr "http://wordpress.syllogic.in"
+
+#. Description of the plugin
+msgid "This plugin extends <a target=\"_blank\" href=\"https://wordpress.org/plugins/contact-form-7/\">Contact Form 7</a> plugin to manage multiple language forms using the <a target=\"_blank\" href=\"https://wordpress.org/plugins/polylang/\">PolyLang</a> plugin. It Requires both plugins to be active first."
+msgstr "Данный плагин дополняет <a target=\"_blank\" href=\"https://wordpress.org/plugins/contact-form-7/\">Contact Form 7</a>, позволяя управлять языковыми версиями форм, используя плагин <a target=\"_blank\" href=\"https://wordpress.org/plugins/polylang/\">PolyLang</a>. Оба плагина должны быть установлены первыми."
+
+#. Plugin Name of the plugin
+msgid "Contact Form 7 Polylang extension"
+msgstr "Расширение Contact Form 7 Polylang"

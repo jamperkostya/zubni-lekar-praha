@@ -1,0 +1,94 @@
+/*
+mobile first
+Author: Matytsyn Kostiantyn (Jamper)
+E-mail: matytsyn.artit@gmail.com
+Site: https://jamper.online
+*/
+
+/* prettier-ignore */
+@import "_reset";
+@import "_fonts";
+@import "_variables";
+@import "_grid";
+/* prettier-ignore */
+
+@import "./ui/buttons";
+@import "./ui/forms";
+@import "./ui/modals";
+// @import "./ui/input";
+// @import "./ui/link";
+
+
+// /* prettier-ignore */
+@import "./partials/header";
+@import "./partials/footer";
+// @import "./partials/hero";
+// @import "./partials/services";
+@import "./partials/content";
+// @import "./partials/contacts";
+// @import "./partials/infographics";
+// @import "./partials/team";
+
+//animation
+@import "./partials/animation";
+//animation
+//
+
+body {
+	background-image: url('../images/bg.jpg'); /* Fallback */
+	background-image: url('../images/bg.webp'); /* WebP overrides if supported */
+	background-repeat: repeat-y;
+	background-size: cover;
+	background-position: top;
+	font-size: @size-18;
+	line-height: 120%;
+	font-family: 'Montserrat';
+	&.menu-shown {
+		overflow: hidden;
+	}
+	.main__wrapper {
+		@media (max-width: 767px) {
+			// padding: 0;
+			margin-left: @size-20;
+			margin-right: @size-20;
+		}
+		margin: auto;
+		background: rgba(0, 0, 0, 0.5);
+		box-shadow: 1.65217px 2.47826px 0px rgba(0, 0, 0, 0.2), 10.7391px 4.95652px 29.0783px rgba(243, 168, 206, 0.15);
+	}
+	.content {
+		h1, h2, h3, h4, h5, h6,
+		.h1, .h2, .h3, .h4, .h5, .h6 {
+			text-transform: uppercase;
+			font-family: 'Montserrat-Bold';
+			margin-bottom: @size-20;
+		}
+		img, .clinic__block__map {
+			max-width: 100%;
+			/* image 13 */
+			box-shadow: 20px 20px 4px @color-main-25;
+			@media (min-width: 992px) {
+				margin-bottom: @size-40;
+			}
+			img {
+				box-shadow: none;
+				margin: 0;
+			}
+		}
+		img {
+			height: auto;
+		}
+		p {
+			color: @color-secondary;
+		}
+		.clinic__block__data__container {
+			width: 500px;
+		}
+		.clinic__block__map {
+			width: 100%;
+			@media (min-width: 992px) {
+				flex: 1;
+			}
+		}
+	}
+}

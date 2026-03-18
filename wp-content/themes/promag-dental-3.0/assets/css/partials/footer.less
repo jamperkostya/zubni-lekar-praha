@@ -1,0 +1,107 @@
+footer.footer {
+    overflow: hidden;
+    background: rgba(0, 0, 0, 0.5);
+    box-shadow: 1.65217px 2.47826px 0px rgba(0, 0, 0, 0.2), 10.7391px 4.95652px 29.0783px rgba(243, 168, 206, 0.15);
+    backdrop-filter: blur(16.5217px);
+    padding: @size-57 @size-20;
+    @media (min-width: 992px) {
+        padding: @size-52 @size-99 @size-65;
+    }
+    margin-bottom: @size-60;
+    .footer__top {
+        grid-template-columns: auto auto; /* две колонки */
+        @media (min-width: 480px) {
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        }
+        align-items: center;
+        justify-content: center;
+        
+        .custom-logo-link {
+            flex: 2;
+            .custom-logo {
+                flex: 0 0 30%; /* занимает 30% пространства, не сжимается, не растягивается */
+                max-width: @size-116;
+                height: @size-57;
+            }
+        }
+        img {
+            display: block;
+            height: @size-30;
+            width: auto;
+            flex: 0 0 auto;  /* изображения не растягиваются по ширине */
+        }
+        @media (max-width: 991px) {
+            a, img {
+                margin: auto;
+            }
+        }
+    }
+    .footer__bottom {
+        color: @color-primary;
+        @media (max-width: 991px) {
+            flex-wrap: wrap;
+        }
+        .menu__container {
+            @media (max-width: 991px) {
+                width: 100%;
+            }
+            @media (min-width: 992px) {
+                flex: 0 0 30%;
+            }
+            &__title {
+                font-family: 'Montserrat-Bold';
+                font-size: 18px;
+                line-height: 140%;
+                color: @color-secondary;
+            }
+            .menu {
+                margin: 0;
+                padding: 0;
+                display: flex;
+                flex-wrap: wrap;
+                li {
+                    width: 50%;
+                    list-style-type: none;
+                    .m-b-10;
+                    * {
+                        font-size: @size-16;
+                        line-height: 200%;
+                        color: @color-secondary;
+                        text-decoration: none;
+                    }
+                    &.current-menu-item {
+                        a {
+                            color: @color-primary;
+                        }
+                    }
+                }
+            }
+        }
+        .footer__contact {
+            gap: @size-17;
+            &__title {
+                font-size: @size-36;
+                width: @size-77;
+                @media (min-width: 992px) {
+                    font-size: @size-48;
+                }
+                line-height: @size-48;
+                color: @color-primary;
+                font-family: 'Montserrat-Bold';
+            }
+            &__text {
+                * {
+                    font-size: 14px;
+                    color: @color-secondary;
+                    line-height: 200%;
+                    margin: 0;
+                }
+                a {
+                    &:hover {
+                        text-decoration: none;
+                    }
+                }
+            }
+        }
+    }
+}

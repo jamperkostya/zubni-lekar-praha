@@ -1,0 +1,103 @@
+.btn, button, .btn-primary, .wpcf7-submit {
+	padding-top: @size-16;
+	padding-bottom: @size-16;
+	padding-left:  @size-20;
+	padding-right:  @size-20;
+	margin-top: 0;
+	@media(min-width: 992px) {
+		padding-top: @size-21;
+		padding-bottom: @size-21;
+	}
+	box-sizing: border-box;
+	background: @color-secondary;
+	border: 1px solid @color-primary;
+	border-radius: 1000px;
+	font-family: 'Montserrat-Bold';
+	font-size: @size-14;
+	text-transform: uppercase;
+	color: @color-main;
+	.animation(0.5s, all);
+	&:hover {
+		background: linear-gradient(0deg, rgba(245, 177, 181, 0.2), rgba(245, 177, 181, 0.2)), @color-secondary;
+	}
+	&.active, &:active {
+		background: linear-gradient(0deg, rgba(245, 177, 181, 0.4), rgba(245, 177, 181, 0.4)), @color-secondary;
+	}
+}
+.wpcf7-submit,
+.button-secondary {
+	background: @color-primary;
+	color: @color-main;
+	width: 100%;
+	@media(min-width: 992px) {
+		padding-left: @size-73;
+		padding-right: @size-73;
+		width: initial;
+	}
+}
+.button-secondary:not(form .button-secondary) {
+	@media (min-width: 576px) and (max-width: 991px) {
+		width: auto;
+		margin: auto;
+	}
+}
+.wpcf7-submit, .checkbox-group-block {
+	margin-top: @size-28;
+}
+.show-more {
+	padding: 0;
+	background: transparent;
+	border: none;
+	border-radius: none;
+	color: @color-secondary;
+	font-size: @size-18;
+	line-height: 150%;
+	text-transform: initial;
+	margin-top: @size-15;
+	@media (min-width: 992px) {
+		margin-top: @size-20;
+	}
+	&::after {
+		content: url('data:image/svg+xml,<svg width="8" height="7" viewBox="0 0 8 7" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1.81934L4 4.81934L7 1.81934" stroke="white" stroke-width="2" stroke-linecap="round"/></svg>');
+		margin-left: @size-5;
+		display: inline-block;
+	}
+	&:hover {
+		background: none;
+		color: @color-primary;
+		&::after {
+			content: url('data:image/svg+xml,<svg width="8" height="7" viewBox="0 0 8 7" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1.81934L4 4.81934L7 1.81934" stroke="%23F5B1B5" stroke-width="2" stroke-linecap="round"/></svg>');
+		}
+	}
+	&.open {
+		color: @color-primary;
+		&::after {
+			content: url('data:image/svg+xml,<svg width="8" height="7" viewBox="0 0 8 7" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1.81934L4 4.81934L7 1.81934" stroke="%23F5B1B5" stroke-width="2" stroke-linecap="round"/></svg>');
+			transform: rotate(180deg);
+			position: relative;
+			top: 3px;
+		}
+	}
+}
+.btn-close {
+	background: transparent;
+	padding: @size-12;
+	border: none;
+	border-radius: 0;
+	.flex;
+	float: right;
+	background-image: url('data:image/svg+xml,<svg width="8" height="8" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M16.75 0.75L0.75 16.75" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M0.750031 0.75L16.75 16.75" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>');
+	background-position: center center;
+	background-repeat: no-repeat;
+	width: @size-8;
+	height: @size-8;
+	position: relative;
+	top: -@size-20;
+	.animation(0.5s, all);
+	&:hover {
+		background-color: transparent;
+		background-image: url('data:image/svg+xml,<svg width="8" height="8" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M16.75 0.75L0.75 16.75" stroke="%23F5B1B5" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M0.750031 0.75L16.75 16.75" stroke="%23F5B1B5" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>');
+		background-position: center center;
+		background-repeat: no-repeat;
+	}
+}
